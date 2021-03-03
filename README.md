@@ -2,7 +2,7 @@
 Informative DevForum posts from everyone's favorite DTS member. Share and Enjoy®
 
 (Arranged newest to oldest)
-- [The Peril of the Ampersand](https://developer.apple.com/forums/thread/674633)
+- [The Peril of the Ampersand](https://developer.apple.com/forums/thread/674633) | ([PDF](pdfs/ThePeriloftheAmpersand.pdf))
 - [Signing code for older versions of macOS on Apple Silicon](https://developer.apple.com/forums/thread/673323)
 - [Local Network Privacy FAQ](https://developer.apple.com/forums/thread/663858)
 - [Triggering the Local Network Privacy Alert](https://developer.apple.com/forums/thread/663768)
