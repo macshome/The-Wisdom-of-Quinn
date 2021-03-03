@@ -3,7 +3,7 @@ Informative DevForum posts from everyone's favorite DTS member. Share and EnjoyÂ
 
 (Arranged newest to oldest)
 - [The Peril of the Ampersand](https://developer.apple.com/forums/thread/674633) | ([PDF](pdfs/The-Peril-of-the-Ampersand.pdf))
-- [Signing code for older versions of macOS on Apple Silicon](https://developer.apple.com/forums/thread/673323) | ([pdf](pdfs/Signing-code-for-older-versions-of-macOS-on-Apple-Silicon.pdf))
+- [Signing code for older versions of macOS on Apple Silicon](https://developer.apple.com/forums/thread/673323) | ([PDF](pdfs/Signing-code-for-older-versions-of-macOS-on-Apple-Silicon.pdf))
 - [Local Network Privacy FAQ](https://developer.apple.com/forums/thread/663858) | ([PDF](pdfs/Local-Network-Privacy-FAQ.pdf))
 - [Triggering the Local Network Privacy Alert](https://developer.apple.com/forums/thread/663768) | ([PDF](pdfs/Triggering-the-Local-Network-Privacy-Alert.pdf))
 - [Standard Memory Debugging Tools](https://developer.apple.com/forums/thread/92102) | ([PDF](pdfs/Standard-Memory-Debugging-Tools.pdf))
@@ -60,4 +60,5 @@ Informative DevForum posts from everyone's favorite DTS member. Share and EnjoyÂ
 - [NEHotspotHelper pseudo API](https://developer.apple.com/forums/thread/46929) | ([PDF](pdfs/NEHotspotHelper-pseudo-API.pdf))
 - [Network Extension Provider Memory Strategy](https://developer.apple.com/forums/thread/44942) | ([PDF](pdfs/Network-Extension-Provider-Memory-Strategy.pdf))
 
-
+###Disclaimer
+All of this content is subject to the license of the Apple Developer Forums. I make no claims at all to it. This page provides PDF files as an archival format, but the live links to the articles are the preferred access method.
