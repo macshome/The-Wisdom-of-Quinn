@@ -1,7 +1,8 @@
 ## The Wisdom of Quinn
 Informative DevForum posts from everyone's favorite DTS member. Share and EnjoyÂ®
 
-(Arranged newest to oldest)
+(Arranged most to least recently updated)
+- [Signing a Mac Product For Distribution](https://developer.apple.com/forums/thread/128166) | ([PDF](pdfs/Signing-a-Mac-Product-For-Distribution.pdf))
 - [The Peril of the Ampersand](https://developer.apple.com/forums/thread/674633) | ([PDF](pdfs/The-Peril-of-the-Ampersand.pdf))
 - [Signing code for older versions of macOS on Apple Silicon](https://developer.apple.com/forums/thread/673323) | ([PDF](pdfs/Signing-code-for-older-versions-of-macOS-on-Apple-Silicon.pdf))
 - [Local Network Privacy FAQ](https://developer.apple.com/forums/thread/663858) | ([PDF](pdfs/Local-Network-Privacy-FAQ.pdf))
@@ -18,7 +19,6 @@ Informative DevForum posts from everyone's favorite DTS member. Share and EnjoyÂ
 - [Testing a Notarised Product](https://developer.apple.com/forums/thread/130560) | ([PDF](pdfs/Testing-a-Notarised-Product.pdf))
 - [Packaging a Daemon with a Provisioning Profile](https://developer.apple.com/forums/thread/129596) | ([PDF](pdfs/Packaging-a-Daemon-with-a-Provisioning-Profile.pdf))
 - [Manual Code Signing Example](https://developer.apple.com/forums/thread/130855) | ([PDF](pdfs/Manual-Code-Signing-Example.pdf))
-- [Signing a Mac Product For Distribution](https://developer.apple.com/forums/thread/128166) | ([PDF](pdfs/Signing-a-Mac-Product-For-Distribution.pdf))
 - [Security Resources](https://developer.apple.com/forums/thread/1002) | ([PDF](pdfs/Security-Resources.pdf))
 - [Moving to Fewer, Larger Transfers](https://developer.apple.com/forums/thread/14853) | ([PDF](pdfs/Moving-to-Fewer,-Larger-Transfers.pdf))
 - [Network Extension Framework Entitlements](https://developer.apple.com/forums/thread/67613) | ([PDF](pdfs/Network-Extension-Framework-Entitlements.pdf))
