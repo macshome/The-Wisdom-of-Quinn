@@ -60,5 +60,5 @@ Informative DevForum posts from everyone's favorite DTS member. Share and EnjoyÂ
 - [NEHotspotHelper pseudo API](https://developer.apple.com/forums/thread/46929) | ([PDF](pdfs/NEHotspotHelper-pseudo-API.pdf))
 - [Network Extension Provider Memory Strategy](https://developer.apple.com/forums/thread/44942) | ([PDF](pdfs/Network-Extension-Provider-Memory-Strategy.pdf))
 
-###Disclaimer
-All of this content is subject to the license of the Apple Developer Forums. I make no claims at all to it. This page provides PDF files as an archival format, but the live links to the articles are the preferred access method.
+### Disclaimer
+All of this content is subject to the [license](https://developer.apple.com/terms/apple-developer-forums/Apple-Developer-Forums-Participation-Agreement-20200618.pdf) of the [Apple Developer Forums](https://developer.apple.com/forums/). I make no claims to any of it. This page provides PDF files as an archival format, but the live links to the articles are the preferred access method.
