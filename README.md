@@ -2,13 +2,13 @@
 Informative DevForum posts from everyone's favorite DTS member. Share and EnjoyÂ®
 
 (Arranged most to least recently updated. Most recent page updates in bold.)
-- **[Signing a Mac Product For Distribution](https://developer.apple.com/forums/thread/128166) | ([PDF](pdfs/Signing-a-Mac-Product-For-Distribution.pdf))**
+- **[Using the Multicast Special Entitlement](https://developer.apple.com/forums/thread/663271) | ([PDF](pdfs/Using-the-Multicast-Special-Entitlement.pdf))**
+- [Signing a Mac Product For Distribution](https://developer.apple.com/forums/thread/128166) | ([PDF](pdfs/Signing-a-Mac-Product-For-Distribution.pdf))
 - [The Peril of the Ampersand](https://developer.apple.com/forums/thread/674633) | ([PDF](pdfs/The-Peril-of-the-Ampersand.pdf))
 - [Signing code for older versions of macOS on Apple Silicon](https://developer.apple.com/forums/thread/673323) | ([PDF](pdfs/Signing-code-for-older-versions-of-macOS-on-Apple-Silicon.pdf))
 - [Local Network Privacy FAQ](https://developer.apple.com/forums/thread/663858) | ([PDF](pdfs/Local-Network-Privacy-FAQ.pdf))
 - [Triggering the Local Network Privacy Alert](https://developer.apple.com/forums/thread/663768) | ([PDF](pdfs/Triggering-the-Local-Network-Privacy-Alert.pdf))
 - [Standard Memory Debugging Tools](https://developer.apple.com/forums/thread/92102) | ([PDF](pdfs/Standard-Memory-Debugging-Tools.pdf))
-- [Using the Multicast Special Entitlement](https://developer.apple.com/forums/thread/663271) | ([PDF](pdfs/Using-the-Multicast-Special-Entitlement.pdf))
 - [Five Reasons Why Synchronous Networking Is Bad](https://developer.apple.com/forums/thread/662329) | ([PDF](pdfs/Five-Reasons-Why-Synchronous-Networking-Is-Bad.pdf))
 - [`--deep` Considered Harmful](https://developer.apple.com/forums/thread/129980) | ([PDF](pdfs/`--deep`-Considered-Harmful.pdf))
 - [Notarisation and the macOS 10.9 SDK](https://developer.apple.com/forums/thread/659964) | ([PDF](pdfs/Notarisation-and-the-macOS-10.9-SDK.pdf))
@@ -62,3 +62,6 @@ Informative DevForum posts from everyone's favorite DTS member. Share and EnjoyÂ
 
 ### Disclaimer
 All of this content is subject to the [license](https://developer.apple.com/terms/apple-developer-forums/Apple-Developer-Forums-Participation-Agreement-20200618.pdf) of the [Apple Developer Forums](https://developer.apple.com/forums/). I make no claims to any of it. This page provides PDF files as an archival format, but the live links to the articles are the preferred access method.
+
+### Changelog
+- 24-03-2021 Using the Multicast Special Entitlement
