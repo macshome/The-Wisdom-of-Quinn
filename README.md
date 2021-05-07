@@ -2,13 +2,16 @@
 Informative DevForum posts from everyone's favorite DTS member. Share and Enjoy®
 
 (Arranged most to least recently updated. Most recent page updates in bold.)
-- **[On FTP](https://developer.apple.com/forums/thread/97469) | ([PDF](pdfs/On-FTP.pdf))**
-- **[SecItem attributes for keys](https://developer.apple.com/forums/thread/70959) | ([PDF](pdfs/SecItem-attributes-for-keys.pdf))**
+- **[Data Vault Info](https://developer.apple.com/forums/thread/114452?answerId=352695022#352695022) | ([PDF](pdfs/Data-Vault-Info.pdf)**
+- **[On Filesystem Permissions](https://developer.apple.com/forums/thread/678819) | ([PDF](pdfs/On-File-System-Permissions.pdf))**
+- **[Local Network Privacy FAQ (Part 3 Update)](https://developer.apple.com/forums/thread/663858) | ([PDF](pdfs/Local-Network-Privacy-FAQ.pdf))**
+- **[KWN & ESK’s Puzzle Page: Mutation Madness](https://developer.apple.com/forums/thread/128559) | ([PDF](pdfs/KWN-&-ESK’s-Puzzle-Page/-Mutation-Madness.pdf))**
+- [On FTP](https://developer.apple.com/forums/thread/97469) | ([PDF](pdfs/On-FTP.pdf))
+- [SecItem attributes for keys](https://developer.apple.com/forums/thread/70959) | ([PDF](pdfs/SecItem-attributes-for-keys.pdf))
 - [Using the Multicast Special Entitlement](https://developer.apple.com/forums/thread/663271) | ([PDF](pdfs/Using-the-Multicast-Special-Entitlement.pdf))
 - [Signing a Mac Product For Distribution](https://developer.apple.com/forums/thread/128166) | ([PDF](pdfs/Signing-a-Mac-Product-For-Distribution.pdf))
 - [The Peril of the Ampersand](https://developer.apple.com/forums/thread/674633) | ([PDF](pdfs/The-Peril-of-the-Ampersand.pdf))
 - [Signing code for older versions of macOS on Apple Silicon](https://developer.apple.com/forums/thread/673323) | ([PDF](pdfs/Signing-code-for-older-versions-of-macOS-on-Apple-Silicon.pdf))
-- [Local Network Privacy FAQ](https://developer.apple.com/forums/thread/663858) | ([PDF](pdfs/Local-Network-Privacy-FAQ.pdf))
 - [Triggering the Local Network Privacy Alert](https://developer.apple.com/forums/thread/663768) | ([PDF](pdfs/Triggering-the-Local-Network-Privacy-Alert.pdf))
 - [Standard Memory Debugging Tools](https://developer.apple.com/forums/thread/92102) | ([PDF](pdfs/Standard-Memory-Debugging-Tools.pdf))
 - [Five Reasons Why Synchronous Networking Is Bad](https://developer.apple.com/forums/thread/662329) | ([PDF](pdfs/Five-Reasons-Why-Synchronous-Networking-Is-Bad.pdf))
@@ -24,7 +27,6 @@ Informative DevForum posts from everyone's favorite DTS member. Share and Enjoy�
 - [Security Resources](https://developer.apple.com/forums/thread/1002) | ([PDF](pdfs/Security-Resources.pdf))
 - [Moving to Fewer, Larger Transfers](https://developer.apple.com/forums/thread/14853) | ([PDF](pdfs/Moving-to-Fewer,-Larger-Transfers.pdf))
 - [Network Extension Framework Entitlements](https://developer.apple.com/forums/thread/67613) | ([PDF](pdfs/Network-Extension-Framework-Entitlements.pdf))
-- [KWN & ESK’s Puzzle Page: Mutation Madness](https://developer.apple.com/forums/thread/128559) | ([PDF](pdfs/KWN-&-ESK’s-Puzzle-Page/-Mutation-Madness.pdf))
 - [Error 1048 When Notarising](https://developer.apple.com/forums/thread/126901) | ([PDF](pdfs/Error-1048-When-Notarising.pdf))
 - [Handling `shouldFreeInfo` Parameters](https://developer.apple.com/forums/thread/122336) | ([PDF](pdfs/Handling-`shouldFreeInfo`-Parameters.pdf))
 - [App Transport Security](https://developer.apple.com/forums/thread/6767) | ([PDF](pdfs/App-Transport-Security.pdf))
@@ -65,5 +67,6 @@ Informative DevForum posts from everyone's favorite DTS member. Share and Enjoy�
 All of this content is subject to the [license](https://developer.apple.com/terms/apple-developer-forums/Apple-Developer-Forums-Participation-Agreement-20200618.pdf) of the [Apple Developer Forums](https://developer.apple.com/forums/). I make no claims to any of it. This page provides PDF files as an archival format, but the live links to the articles are the preferred access method.
 
 ### Changelog
+- 07-05-2021 Added new **On Filesystem Permissions** and **Data Vault Info**. Updated **KWN & ESK’s Puzzle Page: Mutation Madness** and **Local Network Privacy FAQ**.
 - 14-04-2021 Formatting fixes in **On FTP** and **SecItem attributes for keys**
 - 24-03-2021 Using the **Multicast Special Entitlement**
