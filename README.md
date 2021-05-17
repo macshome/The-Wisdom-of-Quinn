@@ -2,10 +2,11 @@
 Informative DevForum posts from everyone's favorite DTS member. Share and Enjoy®
 
 (Arranged most to least recently updated. Most recent page updates in bold.)
-- **[Data Vault Info](https://developer.apple.com/forums/thread/114452?answerId=352695022#352695022) | ([PDF](pdfs/Data-Vault-Info.pdf)**
-- **[On Filesystem Permissions](https://developer.apple.com/forums/thread/678819) | ([PDF](pdfs/On-File-System-Permissions.pdf))**
-- **[Local Network Privacy FAQ (Part 3 Update)](https://developer.apple.com/forums/thread/663858) | ([PDF](pdfs/Local-Network-Privacy-FAQ.pdf))**
-- **[KWN & ESK’s Puzzle Page: Mutation Madness](https://developer.apple.com/forums/thread/128559) | ([PDF](pdfs/KWN-&-ESK’s-Puzzle-Page/-Mutation-Madness.pdf))**
+- **[Embedding a Command-Line Tool in a Sandboxed App](https://developer.apple.com/forums/thread/680212) | ([PDF](pdfs/Embedding-a-Command-Line-Tool-in-a-Sandboxed-App.pdf))**
+- [Data Vault Info](https://developer.apple.com/forums/thread/114452?answerId=352695022#352695022) | ([PDF](pdfs/Data-Vault-Info.pdf)
+- [On Filesystem Permissions](https://developer.apple.com/forums/thread/678819) | ([PDF](pdfs/On-File-System-Permissions.pdf))
+- [Local Network Privacy FAQ (Part 3 Update)](https://developer.apple.com/forums/thread/663858) | ([PDF](pdfs/Local-Network-Privacy-FAQ.pdf))
+- [KWN & ESK’s Puzzle Page: Mutation Madness](https://developer.apple.com/forums/thread/128559) | ([PDF](pdfs/KWN-&-ESK’s-Puzzle-Page/-Mutation-Madness.pdf))
 - [On FTP](https://developer.apple.com/forums/thread/97469) | ([PDF](pdfs/On-FTP.pdf))
 - [SecItem attributes for keys](https://developer.apple.com/forums/thread/70959) | ([PDF](pdfs/SecItem-attributes-for-keys.pdf))
 - [Using the Multicast Special Entitlement](https://developer.apple.com/forums/thread/663271) | ([PDF](pdfs/Using-the-Multicast-Special-Entitlement.pdf))
@@ -67,6 +68,7 @@ Informative DevForum posts from everyone's favorite DTS member. Share and Enjoy�
 All of this content is subject to the [license](https://developer.apple.com/terms/apple-developer-forums/Apple-Developer-Forums-Participation-Agreement-20200618.pdf) of the [Apple Developer Forums](https://developer.apple.com/forums/). I make no claims to any of it. This page provides PDF files as an archival format, but the live links to the articles are the preferred access method.
 
 ### Changelog
+- 17-05-2021 Added new **Embedding a Command Line Tool in a Sandboxed App**
 - 07-05-2021 Added new **On Filesystem Permissions** and **Data Vault Info**. Updated **KWN & ESK’s Puzzle Page: Mutation Madness** and **Local Network Privacy FAQ**.
 - 14-04-2021 Formatting fixes in **On FTP** and **SecItem attributes for keys**
 - 24-03-2021 Using the **Multicast Special Entitlement**
