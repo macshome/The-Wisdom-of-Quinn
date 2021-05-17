@@ -2,6 +2,9 @@
 Informative DevForum posts from everyone's favorite DTS member. Share and EnjoyÂ®
 
 (Arranged most to least recently updated. Most recent page updates in bold.)
+- **[NSURLCache and Byte Ranges](https://developer.apple.com/forums/thread/92119) | ([PDF](pdfs/NSURLCache-and-Byte-Ranges.pdf))**
+- **[Using the Multicast Networking Additional Capability](https://developer.apple.com/forums/thread/663271) | ([PDF](pdfs/Using-the-Multicast-Networking-Additional-Capability.pdf))**
+- **[Wi-Fi Fundamentals](https://developer.apple.com/forums/thread/45283) | ([PDF](pdfs/Wi-Fi-Fundamentals.pdf))**
 - **[Embedding a Command-Line Tool in a Sandboxed App](https://developer.apple.com/forums/thread/680212) | ([PDF](pdfs/Embedding-a-Command-Line-Tool-in-a-Sandboxed-App.pdf))**
 - [Data Vault Info](https://developer.apple.com/forums/thread/114452?answerId=352695022#352695022) | ([PDF](pdfs/Data-Vault-Info.pdf))
 - [On Filesystem Permissions](https://developer.apple.com/forums/thread/678819) | ([PDF](pdfs/On-File-System-Permissions.pdf))
@@ -9,7 +12,6 @@ Informative DevForum posts from everyone's favorite DTS member. Share and EnjoyÂ
 - [KWN & ESKâ€™s Puzzle Page: Mutation Madness](https://developer.apple.com/forums/thread/128559) | ([PDF](pdfs/KWN-&-ESKâ€™s-Puzzle-Page/-Mutation-Madness.pdf))
 - [On FTP](https://developer.apple.com/forums/thread/97469) | ([PDF](pdfs/On-FTP.pdf))
 - [SecItem attributes for keys](https://developer.apple.com/forums/thread/70959) | ([PDF](pdfs/SecItem-attributes-for-keys.pdf))
-- [Using the Multicast Special Entitlement](https://developer.apple.com/forums/thread/663271) | ([PDF](pdfs/Using-the-Multicast-Special-Entitlement.pdf))
 - [Signing a Mac Product For Distribution](https://developer.apple.com/forums/thread/128166) | ([PDF](pdfs/Signing-a-Mac-Product-For-Distribution.pdf))
 - [The Peril of the Ampersand](https://developer.apple.com/forums/thread/674633) | ([PDF](pdfs/The-Peril-of-the-Ampersand.pdf))
 - [Signing code for older versions of macOS on Apple Silicon](https://developer.apple.com/forums/thread/673323) | ([PDF](pdfs/Signing-code-for-older-versions-of-macOS-on-Apple-Silicon.pdf))
@@ -38,7 +40,6 @@ Informative DevForum posts from everyone's favorite DTS member. Share and EnjoyÂ
 - [Implementing Your Own Crash Reporter](https://developer.apple.com/forums/thread/113742) | ([PDF](pdfs/Implementing-Your-Own-Crash-Reporter.pdf))
 - [KEXT Code Signing Problems](https://developer.apple.com/forums/thread/52353) | ([PDF](pdfs/KEXT-Code-Signing-Problems.pdf))
 - [Troubleshooting -34018 Keychain Errors](https://developer.apple.com/forums/thread/114456) | ([PDF](pdfs/Troubleshooting--34018-Keychain-Errors.pdf))
-- [Wi-Fi Fundamentals](https://developer.apple.com/forums/thread/45283) | ([PDF](pdfs/Wi-Fi-Fundamentals.pdf))
 - [Investigating Network Latency Problems](https://developer.apple.com/forums/thread/45210) | ([PDF](pdfs/Investigating-Network-Latency-Problems.pdf))
 - [Debugging HTTP Server-Side Errors](https://developer.apple.com/forums/thread/38886) | ([PDF](pdfs/Debugging-HTTP-Server-Side-Errors.pdf))
 - [Network Debugging articles](https://developer.apple.com/forums/thread/113581) | ([PDF](pdfs/Network-Debugging-articles.pdf))
@@ -49,7 +50,6 @@ Informative DevForum posts from everyone's favorite DTS member. Share and EnjoyÂ
 - [Customising TLS Server Trust Evaluation Considered Harmful](https://developer.apple.com/forums/thread/100113) | ([PDF](pdfs/Customising-TLS-Server-Trust-Evaluation-Considered-Harmful.pdf))
 - [Maintaining a TCP Connection in the Background](https://developer.apple.com/forums/thread/97824) | ([PDF](pdfs/Maintaining-a-TCP-Connection-in-the-Background.pdf))
 - [On FTP](https://developer.apple.com/forums/thread/97469) | ([PDF](pdfs/On-FTP.pdf))
-- [NSURLCache and Byte Ranges](https://developer.apple.com/forums/thread/92119) | ([PDF](pdfs/NSURLCache-and-Byte-Ranges.pdf))
 - [Unified Logging from the Kernel](https://developer.apple.com/forums/thread/91424) | ([PDF](pdfs/Unified-Logging-from-the-Kernel.pdf))
 - [Files and Storage Resources](https://developer.apple.com/forums/thread/89655) | ([PDF](pdfs/Files-and-Storage-Resources.pdf))
 - [IPv6 and App Review](https://developer.apple.com/forums/thread/49979) | ([PDF](pdfs/IPv6-and-App-Review.pdf))
@@ -69,6 +69,9 @@ All of this content is subject to the [license](https://developer.apple.com/term
 
 ### Changelog
 - 17-05-2021 Added new **Embedding a Command Line Tool in a Sandboxed App**
-- 07-05-2021 Added new **On Filesystem Permissions** and **Data Vault Info**. Updated **KWN & ESKâ€™s Puzzle Page: Mutation Madness** and **Local Network Privacy FAQ**.
+	- Updated **NSURLCache and Byte Ranges**, **Wi-Fi Fundamentals**
+	- Renamed **Using the Multicast Networking Entitlement** to **Using the Multicast Networking Additional Capability**
+- 07-05-2021 Added new **On Filesystem Permissions** and **Data Vault Info**.
+	- Updated **KWN & ESKâ€™s Puzzle Page: Mutation Madness** and **Local Network Privacy FAQ**.
 - 14-04-2021 Formatting fixes in **On FTP** and **SecItem attributes for keys**
 - 24-03-2021 Using the **Multicast Special Entitlement**
