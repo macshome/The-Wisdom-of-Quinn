@@ -2,6 +2,7 @@
 Informative DevForum posts from everyone's favorite DTS member. Share and Enjoy®
 
 (Arranged most to least recently updated. Most recent page updates in bold.)
+- **[Secure Enclave Cryptography](https://developer.apple.com/forums/thread/8030?answerId=84684022#84684022) | ([PDF](pdfs/SecureEnclaveCryptography.pdf))**
 - **[NSURLCache and Byte Ranges](https://developer.apple.com/forums/thread/92119) | ([PDF](pdfs/NSURLCache-and-Byte-Ranges.pdf))**
 - **[Using the Multicast Networking Additional Capability](https://developer.apple.com/forums/thread/663271) | ([PDF](pdfs/Using-the-Multicast-Networking-Additional-Capability.pdf))**
 - **[Wi-Fi Fundamentals](https://developer.apple.com/forums/thread/45283) | ([PDF](pdfs/Wi-Fi-Fundamentals.pdf))**
@@ -69,6 +70,7 @@ All of this content is subject to the [license](https://developer.apple.com/term
 
 ### Changelog
 - 17-05-2021 Added new **Embedding a Command Line Tool in a Sandboxed App**
+  - Added **Secure Enclave Cryptography**
 	- Updated **NSURLCache and Byte Ranges**, **Wi-Fi Fundamentals**
 	- Renamed **Using the Multicast Networking Entitlement** to **Using the Multicast Networking Additional Capability**
 - 07-05-2021 Added new **On Filesystem Permissions** and **Data Vault Info**.
