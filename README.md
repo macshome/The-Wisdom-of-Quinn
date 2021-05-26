@@ -2,10 +2,13 @@
 Informative DevForum posts from everyone's favorite DTS member. Share and Enjoy®
 
 (Arranged most to least recently updated. Most recent page updates in bold.)
-- **[NSURLCache and Byte Ranges](https://developer.apple.com/forums/thread/92119) | ([PDF](pdfs/NSURLCache-and-Byte-Ranges.pdf))**
-- **[Using the Multicast Networking Additional Capability](https://developer.apple.com/forums/thread/663271) | ([PDF](pdfs/Using-the-Multicast-Networking-Additional-Capability.pdf))**
-- **[Wi-Fi Fundamentals](https://developer.apple.com/forums/thread/45283) | ([PDF](pdfs/Wi-Fi-Fundamentals.pdf))**
-- **[Embedding a Command-Line Tool in a Sandboxed App](https://developer.apple.com/forums/thread/680212) | ([PDF](pdfs/Embedding-a-Command-Line-Tool-in-a-Sandboxed-App.pdf))**
+- **[What is an exception?](https://developer.apple.com/forums/thread/680584) | ([PDF](pdfs/What-is-an-exception.pdf))**
+- **[On Cryptographic Key Formats](https://developer.apple.com/forums/thread/680554) | ([PDF](pdfs/On-Cryptographic-Key-Formats.pdf))**
+- **[Importing Cryptographic Keys](https://developer.apple.com/forums/thread/680572) | ([PDF](pdfs/Importing-Cryptographic-Keys.pdf))**
+- [NSURLCache and Byte Ranges](https://developer.apple.com/forums/thread/92119) | ([PDF](pdfs/NSURLCache-and-Byte-Ranges.pdf))
+- [Using the Multicast Networking Additional Capability](https://developer.apple.com/forums/thread/663271) | ([PDF](pdfs/Using-the-Multicast-Networking-Additional-Capability.pdf))
+- [Wi-Fi Fundamentals](https://developer.apple.com/forums/thread/45283) | ([PDF](pdfs/Wi-Fi-Fundamentals.pdf))
+- [Embedding a Command-Line Tool in a Sandboxed App](https://developer.apple.com/forums/thread/680212) | ([PDF](pdfs/Embedding-a-Command-Line-Tool-in-a-Sandboxed-App.pdf))
 - [Data Vault Info](https://developer.apple.com/forums/thread/114452?answerId=352695022#352695022) | ([PDF](pdfs/Data-Vault-Info.pdf))
 - [On Filesystem Permissions](https://developer.apple.com/forums/thread/678819) | ([PDF](pdfs/On-File-System-Permissions.pdf))
 - [Local Network Privacy FAQ (Part 3 Update)](https://developer.apple.com/forums/thread/663858) | ([PDF](pdfs/Local-Network-Privacy-FAQ.pdf))
@@ -68,10 +71,14 @@ Informative DevForum posts from everyone's favorite DTS member. Share and Enjoy�
 All of this content is subject to the [license](https://developer.apple.com/terms/apple-developer-forums/Apple-Developer-Forums-Participation-Agreement-20200618.pdf) of the [Apple Developer Forums](https://developer.apple.com/forums/). I make no claims to any of it. This page provides PDF files as an archival format, but the live links to the articles are the preferred access method.
 
 ### Changelog
-- 17-05-2021 Added new **Embedding a Command Line Tool in a Sandboxed App**
+- 26-05-2021
+	- Added: **Importing Cryptographic Keys**, **On Cryptographic Key Formats**, **What is an exception?**
+- 17-05-2021 
+	- Added **Embedding a Command Line Tool in a Sandboxed App**
 	- Updated **NSURLCache and Byte Ranges**, **Wi-Fi Fundamentals**
 	- Renamed **Using the Multicast Networking Entitlement** to **Using the Multicast Networking Additional Capability**
-- 07-05-2021 Added new **On Filesystem Permissions** and **Data Vault Info**.
+- 07-05-2021 
+	- Added **On Filesystem Permissions** and **Data Vault Info**.
 	- Updated **KWN & ESK’s Puzzle Page: Mutation Madness** and **Local Network Privacy FAQ**.
 - 14-04-2021 Formatting fixes in **On FTP** and **SecItem attributes for keys**
 - 24-03-2021 Using the **Multicast Special Entitlement**
