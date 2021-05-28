@@ -2,7 +2,7 @@
 Informative DevForum posts from everyone's favorite DTS member. Share and Enjoy®
 
 (Arranged most to least recently updated. Most recent page updates in bold.)
-- **[Keychain sharing](https://developer.apple.com/forums/thread/67047?answerId=193828022#193828022)**
+- **[Keychain sharing](https://developer.apple.com/forums/thread/67047?answerId=193828022#193828022) | ([PDF](pdfs/Confusion-about-access-groups.pdf))**
 - [What is an exception?](https://developer.apple.com/forums/thread/680584) | ([PDF](pdfs/What-is-an-exception.pdf))
 - [On Cryptographic Key Formats](https://developer.apple.com/forums/thread/680554) | ([PDF](pdfs/On-Cryptographic-Key-Formats.pdf))
 - [Importing Cryptographic Keys](https://developer.apple.com/forums/thread/680572) | ([PDF](pdfs/Importing-Cryptographic-Keys.pdf))
