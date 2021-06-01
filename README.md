@@ -72,6 +72,8 @@ Informative DevForum posts from everyone's favorite DTS member. Share and EnjoyÂ
 All of this content is subject to the [license](https://developer.apple.com/terms/apple-developer-forums/Apple-Developer-Forums-Participation-Agreement-20200618.pdf) of the [Apple Developer Forums](https://developer.apple.com/forums/). I make no claims to any of it. This page provides PDF files as an archival format, but the live links to the articles are the preferred access method.
 
 ### Changelog
+- 01-06-2021
+- 	- Added: **Keychain sharing**
 - 26-05-2021
 	- Added: **Importing Cryptographic Keys**, **On Cryptographic Key Formats**, **What is an exception?**
 - 17-05-2021 
