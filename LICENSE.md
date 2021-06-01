@@ -1,0 +1,1 @@
+All of this content is subject to the [license](https://developer.apple.com/terms/apple-developer-forums/Apple-Developer-Forums-Participation-Agreement-20200618.pdf) of the [Apple Developer Forums](https://developer.apple.com/forums/). I make no claims to any of it.
