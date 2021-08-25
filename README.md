@@ -67,11 +67,14 @@ Informative DevForum posts from everyone's favorite DTS member. Share and EnjoyÂ
 - [IPv6 Address Synthesis on Older Systems](https://developer.apple.com/forums/thread/47220) | ([PDF](pdfs/IPv6-Address-Synthesis-on-Older-Systems.pdf))
 - [NEHotspotHelper pseudo API](https://developer.apple.com/forums/thread/46929) | ([PDF](pdfs/NEHotspotHelper-pseudo-API.pdf))
 - [Network Extension Provider Memory Strategy](https://developer.apple.com/forums/thread/44942) | ([PDF](pdfs/Network-Extension-Provider-Memory-Strategy.pdf))
+- [Local Network Privacy FAQ](https://developer.apple.com/forums/thread/663858)
 
 ### Disclaimer
 All of this content is subject to the [license](https://developer.apple.com/terms/apple-developer-forums/Apple-Developer-Forums-Participation-Agreement-20200618.pdf) of the [Apple Developer Forums](https://developer.apple.com/forums/). I make no claims to any of it. This page provides PDF files as an archival format, but the live links to the articles are the preferred access method.
 
 ### Changelog
+- 2021-08-25
+	- Added: **Local Network Privacy FAQ**
 - 01-06-2021
 - 	- Added: **Keychain sharing**
 - 26-05-2021
