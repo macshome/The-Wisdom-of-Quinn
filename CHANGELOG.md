@@ -50,7 +50,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - XPC and App-to-App Communication
 - Resolving Library Loading Problems
 - Objective-C Memory Management for Swift Programmers
-- Unpacking Apple Archives
 - Your Friend the System Log
 - WWDC 2010 Session 207 Run Loops Section
 - An Apple Library Primer
@@ -66,6 +65,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - On FTP
 - TLS for App Developers
 - Local Network Privacy FAQ
+- Unpacking Apple Archives
 
 ## Deprecated
 *Link to new docs included in posts.*

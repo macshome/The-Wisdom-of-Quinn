@@ -1,7 +1,6 @@
 ## The Wisdom of Quinn
 Informative DevForum posts from everyone's favorite DTS member. Share and Enjoy®
 
-(Arranged most to least recently updated. Most recent page updates in bold.)
 - [An Apple Library Primer](https://developer.apple.com/forums/thread/715385) | ([PDF](pdfs/An-Apple-Library-Primer.pdf))
 - [WWDC 2010 Session 207 Run Loops Section](https://developer.apple.com/forums/thread/717392) | ([PDF](pdfs/WWDC-2010-Session-207-Run-Loops-Section.pdf))
 - [Your Friend the System Log](https://developer.apple.com/forums/thread/705868) | ([PDF](pdfs/Your-Friend-the-System-Log.pdf))
