@@ -1,7 +1,7 @@
-#The Wisdom of Quinn
+# The Wisdom of Quinn
 Informative DevForum posts from everyone's favorite DTS member. Share and Enjoy®
 
-##Resource Pages
+## Resource Pages
 Lists and links of Apple resources that The Eskimo finds useful.
 
 - [App Sandbox Resources](https://developer.apple.com/forums/thread/707325) | ([PDF](pdfs/App-Sandbox-Resources.pdf))
@@ -18,7 +18,7 @@ Lists and links of Apple resources that The Eskimo finds useful.
 - [Trusted Execution Resources](https://developer.apple.com/forums/thread/707357) | ([PDF](pdfs/Trusted-Execution-Resources.pdf))
 - [XPC Resources](https://developer.apple.com/forums/thread/708877) | ([PDF](pdfs/XPC-Resources.pdf))
 
-##Code Signing
+## Code Signing
 Everybody loves code signing!
 
 - [Fixing an untrusted code signing certificate](https://developer.apple.com/forums/thread/712043) | ([PDF](pdfs/Fixing-an-untrusted-code-signing-certificate.pdf))
@@ -33,7 +33,7 @@ Everybody loves code signing!
 - [Signing code for older versions of macOS on Apple Silicon](https://developer.apple.com/forums/thread/673323) | ([PDF](pdfs/Signing-code-for-older-versions-of-macOS-on-Apple-Silicon.pdf))
 - [Manual Code Signing Example](https://developer.apple.com/forums/thread/130855) | ([PDF](pdfs/Manual-Code-Signing-Example.pdf))
 
-##Distribution
+## Distribution
 App Store, Provisioning Profiles, Developer ID, and Notarization.
 
 - [Don’t Run App Store Distribution-Signed Code](https://developer.apple.com/forums/thread/707043) | ([PDF](pdfs/Don’t-Run-App-Store-Distribution-Signed-Code.pdf))
@@ -49,7 +49,7 @@ App Store, Provisioning Profiles, Developer ID, and Notarization.
 - [Testing a Notarised Product](https://developer.apple.com/forums/thread/130560) | ([PDF](pdfs/Testing-a-Notarised-Product.pdf))
 - [What exactly is a provisioning profile?](https://developer.apple.com/forums/thread/685723) | ([PDF](pdfs/What-exactly-is-a-provisioning-profile.pdf))
 
-##Filesystems
+## Filesystems
 Bits on disk.
 
 - [Unpacking Apple Archives](https://developer.apple.com/forums/thread/133985) | ([PDF](pdfs/Unpacking-Apple-Archives.pdf))
@@ -58,14 +58,14 @@ Bits on disk.
 - [Whither FileHandle?](https://developer.apple.com/forums/thread/690382) | ([PDF](pdfs/Whither-FileHandle.pdf))
 - [Unpacking Apple Archives](https://developer.apple.com/forums/thread/133985) | ([PDF](pdfs/Unpacking-Apple-Archives.pdf))
 
-##iOS Background Activities
+## iOS Background Activities
 Y U KILL MAH PROCESS?
 
 - [iOS Background Execution Limits](https://developer.apple.com/forums/thread/685525) | ([PDF](pdfs/iOS-Background-Execution-Limits))
 - [Testing Background Session Code](https://developer.apple.com/forums/thread/14855) | ([PDF](pdfs/Testing-Background-Session-Code.pdf))
 - [UIApplication Background Task Notes](https://developer.apple.com/forums/thread/85066) | ([PDF](pdfs/UIApplication-Background-Task-Notes.pdf))
 
-##Security
+## Security
 Shhh… it's a secret.
 
 - [BSD Privilege Escalation on macOS](https://developer.apple.com/forums/thread/708765) | ([PDF](pdfs/BSD-Privilege-Escalation-on-macOS.pdf))
@@ -78,7 +78,7 @@ Shhh… it's a secret.
 - [Resolving App Sandbox Inheritance Problems](https://developer.apple.com/forums/thread/706390) | ([PDF](pdfs/Resolving-App-Sandbox-Inheritance-Problems.pdf))
 - [Resolving Hardened Runtime Incompatibilities](https://developer.apple.com/forums/thread/707743) | ([PDF](pdfs/Resolving-Hardened-Runtime-Incompatibilities.pdf))
 
-###Keychains
+### Keychains
 - [App ID Prefix Change and Keychain Access](https://developer.apple.com/forums/thread/706128) | ([PDF](pdfs/App-ID-Prefix-Change-and-Keychain-Access.pdf))
 - [Keychain sharing](https://developer.apple.com/forums/thread/67047?answerId=193828022#193828022) | ([PDF](pdfs/Confusion-about-access-groups.pdf))
 - [On Mac Keychains](https://developer.apple.com/forums/thread/696431) | ([PDF](pdfs/On-Mac-Keychains.pdf))
@@ -86,7 +86,7 @@ Shhh… it's a secret.
 - [Troubleshooting -34018 Keychain Errors](https://developer.apple.com/forums/thread/114456) | ([PDF](pdfs/Troubleshooting--34018-Keychain-Errors-v2.pdf))
 
 
-##Logging
+## Logging
 Tell me about what happened.
 
 - [Implementing Your Own Crash Reporter](https://developer.apple.com/forums/thread/113742) | ([PDF](pdfs/Implementing-Your-Own-Crash-Reporter.pdf))
@@ -98,7 +98,7 @@ Tell me about what happened.
 - [Viewing Sandbox Violation Reports](https://developer.apple.com/forums/thread/702735) | ([PDF](pdfs/Viewing-Sandbox-Violation-Reports.pdf))
 - [Your Friend the System Log](https://developer.apple.com/forums/thread/705868) | ([PDF](pdfs/Your-Friend-the-System-Log.pdf))
 
-##Low-Level Fiddly Bits
+## Low-Level Fiddly Bits
 Get down in the guts.
 
 - [Avoid Dispatch Global Concurrent Queues](https://developer.apple.com/forums/thread/711736) | ([PDF](pdfs/Avoid-Dispatch-Global-Concurrent-Queues.pdf))
@@ -106,39 +106,39 @@ Get down in the guts.
  [Swift 3 and BSD Sockets](https://developer.apple.com/forums/thread/60797) | ([PDF](pdfs/Swift-3-and-BSD-Sockets.pdf))
 - [WWDC 2010 Session 207 Run Loops Section](https://developer.apple.com/forums/thread/717392) | ([PDF](pdfs/WWDC-2010-Session-207-Run-Loops-Section.pdf))
 
-###Libraries and Frameworks
+### Libraries and Frameworks
 - [An Apple Library Primer](https://developer.apple.com/forums/thread/715385) | ([PDF](pdfs/An-Apple-Library-Primer.pdf))
 - [Async Signal Safe Functions vs Dyld Lazy Binding](https://developer.apple.com/forums/thread/116571) | ([PDF](pdfs/Async-Signal-Safe-Functions-vs-Dyld-Lazy-Binding.pdf))
 - [Resolving Library Loading Problems](https://developer.apple.com/forums/thread/706437) | ([PDF](pdfs/Resolving-Library-Loading-Problems.pdf))
 
-###Memory
+### Memory
 - [Handling `shouldFreeInfo` Parameters](https://developer.apple.com/forums/thread/122336) | ([PDF](pdfs/Handling-`shouldFreeInfo`-Parameters.pdf))
 - [Objective-C Memory Management for Swift Programmers](https://developer.apple.com/forums/thread/716261) | ([PDF](pdfs/Objective-C-Memory-Management-for-Swift-Programmers.pdf))
 - [On Free Memory](https://developer.apple.com/forums/thread/118867) | ([PDF](pdfs/On-Free-Memory.pdf))
 - [Standard Memory Debugging Tools](https://developer.apple.com/forums/thread/92102) | ([PDF](pdfs/Standard-Memory-Debugging-Tools.pdf))
 - [The Peril of the Ampersand](https://developer.apple.com/forums/thread/674633) | ([PDF](pdfs/The-Peril-of-the-Ampersand.pdf))
 
-###XPC
+### XPC
 - [Testing and Debugging XPC Code With an Anonymous Listener](https://developer.apple.com/forums/thread/693955) | ([PDF](pdfs/Testing-and-Debugging-XPC-Code-With-an-Anonymous-Listener.pdf))
 - [XPC and App-to-App Communication](https://developer.apple.com/forums/thread/715338) | ([PDF](pdfs/XPC-and-App-to-App-Communication.pdf))
 
-##Networking
+## Networking
 Making this talk to that.
 
-###Debugging
+### Debugging
 - [Network Debugging in the Field](https://developer.apple.com/forums/thread/66541) | ([PDF](pdfs/Network-Debugging-in-the-Field.pdf))
 - [Investigating Network Latency Problems](https://developer.apple.com/forums/thread/45210) | ([PDF](pdfs/Investigating-Network-Latency-Problems.pdf))
 - [Debugging HTTP Server-Side Errors](https://developer.apple.com/forums/thread/38886) | ([PDF](pdfs/Debugging-HTTP-Server-Side-Errors.pdf))
 - [Network Debugging articles](https://developer.apple.com/forums/thread/113581) | ([PDF](pdfs/Network-Debugging-articles.pdf))
 - [Using mitmproxy to Analyse HTTP[S] Requests](https://developer.apple.com/forums/thread/54541) | ([PDF](pdfs/Using-mitmproxy-to-Analyse-HTTP[S]-Requests.pdf))
 
-###Extensions
+### Extensions
 - [Network Extension Framework Entitlements](https://developer.apple.com/forums/thread/67613) | ([PDF](pdfs/Network-Extension-Framework-Entitlements.pdf))
 - [NEHotspotHelper pseudo API](https://developer.apple.com/forums/thread/46929) | ([PDF](pdfs/NEHotspotHelper-pseudo-API.pdf))
 - [Network Extension Provider Memory Strategy](https://developer.apple.com/forums/thread/44942) | ([PDF](pdfs/Network-Extension-Provider-Memory-Strategy.pdf))
 - [Networking in a Short-Lived Extension](https://developer.apple.com/forums/thread/76659) | ([PDF](pdfs/Networking-in-a-Short-Lived-Extension.pdf))
 
-###General
+### General
 - [On FTP](https://developer.apple.com/forums/thread/97469) | ([PDF](pdfs/On-FTP.pdf))
 - [Moving to Fewer, Larger Transfers](https://developer.apple.com/forums/thread/14853) | ([PDF](pdfs/Moving-to-Fewer,-Larger-Transfers-v2.pdf))
 - [Using the Multicast Networking Additional Capability](https://developer.apple.com/forums/thread/663271) | ([PDF](pdfs/Using-the-Multicast-Networking-Additional-Capability-v2.pdf))
@@ -147,12 +147,12 @@ Making this talk to that.
 - [Five Reasons Why Synchronous Networking Is Bad](https://developer.apple.com/forums/thread/662329) | ([PDF](pdfs/Five-Reasons-Why-Synchronous-Networking-Is-Bad.pdf))
 - [Maintaining a TCP Connection in the Background](https://developer.apple.com/forums/thread/97824) | ([PDF](pdfs/Maintaining-a-TCP-Connection-in-the-Background.pdf))
 
-###IPv6
+### IPv6
 - [IPv6 and App Review](https://developer.apple.com/forums/thread/49979) | ([PDF](pdfs/IPv6-and-App-Review.pdf))
 - [IPv6 Address Synthesis on Older Systems](https://developer.apple.com/forums/thread/47220) | ([PDF](pdfs/IPv6-Address-Synthesis-on-Older-Systems.pdf))
 - [Supporting IPv6-only Networks](https://developer.apple.com/forums/thread/46545) | ([PDF](pdfs/Supporting-IPv6-only-Networks.pdf))
 
-###Local Network
+### Local Network
 - [Triggering the Local Network Privacy Alert](https://developer.apple.com/forums/thread/663768) | ([PDF](pdfs/Triggering-the-Local-Network-Privacy-Alert.pdf))
 - [Local Network Privacy FAQ](https://developer.apple.com/forums/thread/663858) | ([PDF](pdfs/Local-Network-Privacy-FAQ.pdf))
 	- [FAQ-1: What is a local network?](https://developer.apple.com/forums/thread/663848) | ([PDF](pdfs/FAQ-1.pdf))
@@ -171,16 +171,13 @@ Making this talk to that.
 	- [FAQ-14: How do I map my Multipeer Connectivity service type to an entry in the Bonjour services property?](https://developer.apple.com/forums/thread/663814) | ([PDF](pdfs/FAQ-14.pdf))
 	- [FAQ-15: My app presents the local network privacy alert unexpectedly. Is there a way to track down the cause?](https://developer.apple.com/forums/thread/664116) | ([PDF](pdfs/FAQ-15.pdf))
 
-
-###Security
+### Security
 - [App Transport Security](https://developer.apple.com/forums/thread/6767) | ([PDF](pdfs/App-Transport-Security.pdf))
 - [Customising TLS Server Trust Evaluation Considered Harmful](https://developer.apple.com/forums/thread/100113) | ([PDF](pdfs/Customising-TLS-Server-Trust-Evaluation-Considered-Harmful.pdf))
 - [Implementing Secure Transport I/O Functions](https://developer.apple.com/forums/thread/75169) | ([PDF](pdfs/Implementing-Secure-Transport-I/O-Functions.pdf))- [TLS for App Developers](https://developer.apple.com/forums/thread/67493) | ([PDF](pdfs/TLS-for-App-Developers.pdf))
 - [TLS For Accessory Developers](https://developer.apple.com/forums/thread/703234) | ([PDF](pdfs/TLS-For-Accessory-Developers.pdf))
 
-
-
-##Odds and Ends
+## Odds and Ends
 General info and some puzzles.
 
 - [Bug Reporting: How and Why?](https://developer.apple.com/forums/thread/712889) | ([PDF](pdfs/Bug-Reporting:-How-and-Why.pdf))
@@ -188,8 +185,6 @@ General info and some puzzles.
 - [Posting a Crash Report](https://developer.apple.com/forums/thread/688669) | ([PDF](pdfs/Posting-a-Crash-Report.pdf))
 - [What is an exception?](https://developer.apple.com/forums/thread/680584) | ([PDF](pdfs/What-is-an-exception.pdf))
 - [Quinn’s Top Ten DevForums Tips](https://developer.apple.com/forums/thread/706527) | ([PDF](pdfs/Quinn’s-Top-Ten-DevForums-Tips.pdf))
-
-
 
 ### Disclaimer
 All of this content is subject to the [license](https://developer.apple.com/terms/apple-developer-forums/Apple-Developer-Forums-Participation-Agreement-20200618.pdf) of the [Apple Developer Forums](https://developer.apple.com/forums/). I make no claims to any of it. This page provides PDF files as an archival format, but the live links to the articles are the preferred access method.
