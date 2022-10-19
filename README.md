@@ -71,10 +71,12 @@ Shhh… it's a secret.
 - [BSD Privilege Escalation on macOS](https://developer.apple.com/forums/thread/708765) | ([PDF](pdfs/BSD-Privilege-Escalation-on-macOS.pdf))
 - [Calling Security Framework from Swift](https://developer.apple.com/forums/thread/710961) | ([PDF](pdfs/Calling-Security-Framework-from-Swift.pdf))
 - [Data Vault Info](https://developer.apple.com/forums/thread/114452?answerId=352695022#352695022) | ([PDF](pdfs/Data-Vault-Info.pdf))
+- [Defining An App Group Shared Between macOS and iOS](https://developer.apple.com/forums/thread/718126?answerId=733072022#733072022) | ([PDF](pdfs/defining-an-app-group-shared-between-macOS-and-iOS.pdf))
 - [Error -34018 errSecMissingEntitlement](https://developer.apple.com/forums/thread/64699) | ([PDF](pdfs/Error--34018-errSecMissingEntitlement.pdf))
 - [Importing Cryptographic Keys](https://developer.apple.com/forums/thread/680572) | ([PDF](pdfs/Importing-Cryptographic-Keys.pdf))
 - [Intermittent -34018 errors from users in the field](https://developer.apple.com/forums/thread/64700) | ([PDF](pdfs/Intermittent--34018-errors-from-users-in-the-field.pdf))
 - [On Cryptographic Key Formats](https://developer.apple.com/forums/thread/680554) | ([PDF](pdfs/On-Cryptographic-Key-Formats.pdf))
+- [Remote Debugging for Authorization Plugins](https://developer.apple.com/forums/thread/93410?answerId=733129022#733129022) | ([PDF](pdfs/Remote-Debugging-for-Authorization-Plugins.pdf))
 - [Resolving App Sandbox Inheritance Problems](https://developer.apple.com/forums/thread/706390) | ([PDF](pdfs/Resolving-App-Sandbox-Inheritance-Problems.pdf))
 - [Resolving Hardened Runtime Incompatibilities](https://developer.apple.com/forums/thread/707743) | ([PDF](pdfs/Resolving-Hardened-Runtime-Incompatibilities.pdf))
 
