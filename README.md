@@ -21,17 +21,17 @@ Lists and links of Apple resources that The Eskimo finds useful.
 ## Code Signing
 Everybody loves code signing!
 
-- [Fixing an untrusted code signing certificate](https://developer.apple.com/forums/thread/712043) | ([PDF](pdfs/Fixing-an-untrusted-code-signing-certificate.pdf))
-- [Creating Distribution-Signed Code for Mac](https://developer.apple.com/forums/thread/712005) | ([PDF](pdfs/Creating-Distribution-Signed-Code-for-Mac.pdf))
-- [Resolving errSecInternalComponent errors during code signing](https://developer.apple.com/forums/thread/712005) | ([PDF](pdfs/Resolving-errSecInternalComponent-errors-during-code-signing.pdf))
-- [`--deep` Considered Harmful](https://developer.apple.com/forums/thread/129980) | ([PDF](pdfs/`--deep`-Considered-Harmful.pdf))
-- [Resolving Code Signing Crashes on Launch](https://developer.apple.com/forums/thread/706427) | ([PDF](pdfs/Resolving-Code-Signing-Crashes-on-Launch.pdf))
 - [A Peek Behind the Code Signing Curtain](https://developer.apple.com/forums/thread/702351) | ([PDF](pdfs/A-Peek-Behind-the-Code-Signing-Curtain.pdf))
-- [KEXT Code Signing Problems](https://developer.apple.com/forums/thread/52353) | ([PDF](pdfs/KEXT-Code-Signing-Problems-v2.pdf))
-- [Signing a Mac Product For Distribution](https://developer.apple.com/forums/thread/128166) | ([PDF](pdfs/Signing-a-Mac-Product-For-Distribution-v2.pdf))
 - [Certificate Signing Requests Explained](https://developer.apple.com/forums/thread/699268) | ([PDF](pdfs/Certificate-Signing-Requests-Explained.pdf))
-- [Signing code for older versions of macOS on Apple Silicon](https://developer.apple.com/forums/thread/673323) | ([PDF](pdfs/Signing-code-for-older-versions-of-macOS-on-Apple-Silicon.pdf))
+- [Creating Distribution-Signed Code for Mac](https://developer.apple.com/forums/thread/712005) | ([PDF](pdfs/Creating-Distribution-Signed-Code-for-Mac.pdf))
+- [`--deep` Considered Harmful](https://developer.apple.com/forums/thread/129980) | ([PDF](pdfs/`--deep`-Considered-Harmful.pdf))
+- [Fixing an untrusted code signing certificate](https://developer.apple.com/forums/thread/712043) | ([PDF](pdfs/Fixing-an-untrusted-code-signing-certificate.pdf))
+- [KEXT Code Signing Problems](https://developer.apple.com/forums/thread/52353) | ([PDF](pdfs/KEXT-Code-Signing-Problems-v2.pdf))
 - [Manual Code Signing Example](https://developer.apple.com/forums/thread/130855) | ([PDF](pdfs/Manual-Code-Signing-Example.pdf))
+- [Resolving Code Signing Crashes on Launch](https://developer.apple.com/forums/thread/706427) | ([PDF](pdfs/Resolving-Code-Signing-Crashes-on-Launch.pdf))
+- [Resolving errSecInternalComponent errors during code signing](https://developer.apple.com/forums/thread/712005) | ([PDF](pdfs/Resolving-errSecInternalComponent-errors-during-code-signing.pdf))
+- [Signing a Mac Product For Distribution](https://developer.apple.com/forums/thread/128166) | ([PDF](pdfs/Signing-a-Mac-Product-For-Distribution-v2.pdf))
+- [Signing code for older versions of macOS on Apple Silicon](https://developer.apple.com/forums/thread/673323) | ([PDF](pdfs/Signing-code-for-older-versions-of-macOS-on-Apple-Silicon.pdf))
 
 ## Distribution
 App Store, Provisioning Profiles, Developer ID, and Notarization.
@@ -42,7 +42,8 @@ App Store, Provisioning Profiles, Developer ID, and Notarization.
 - [Notarisation Fundamentals](https://developer.apple.com/forums/thread/710738) | ([PDF](pdfs/Notarisation-Fundamentals.pdf))
 - [Notarisation and the macOS 10.9 SDK](https://developer.apple.com/forums/thread/659964) | ([PDF](pdfs/Notarisation-and-the-macOS-10.9-SDK-v2.pdf))
 - [Notarising an Installer Package Containing a KEXT](https://developer.apple.com/forums/thread/116692) | ([PDF](pdfs/Notarising-an-Installer-Package-Containing-a-KEXT.pdf))
-- [Packaging a Daemon with a Provisioning Profile](https://developer.apple.com/forums/thread/129596) | ([PDF](pdfs/Packaging-a-Daemon-with-a-Provisioning-Profile-v2.pdf))- [Packaging Mac Software for Distribution](https://developer.apple.com/forums/thread/701581) | ([PDF](pdfs/Packaging-Mac-Software-for-Distribution.pdf))
+- [Packaging a Daemon with a Provisioning Profile](https://developer.apple.com/forums/thread/129596) | ([PDF](pdfs/Packaging-a-Daemon-with-a-Provisioning-Profile-v2.pdf))
+- [Packaging Mac Software for Distribution](https://developer.apple.com/forums/thread/701581) | ([PDF](pdfs/Packaging-Mac-Software-for-Distribution.pdf))
 - [Resolving Gatekeeper Problems](https://developer.apple.com/forums/thread/706379) | ([PDF](pdfs/Resolving-Gatekeeper-Problems.pdf))
 - [Resolving Gatekeeper Problems Caused by Dangling Load Command Paths](https://developer.apple.com/forums/thread/706414) | ([PDF](pdfs/Resolving-Gatekeeper-Problems-Caused-by-Dangling-Load-Command-Paths.pdf))
 - [Sandboxed Helper Tool Crashing in `libsystem_secinit`](https://developer.apple.com/forums/thread/112800) | ([PDF](pdfs/Sandboxed-Helper-Tool-Crashing-in-`libsystem_secinit`.pdf))
@@ -52,11 +53,10 @@ App Store, Provisioning Profiles, Developer ID, and Notarization.
 ## Filesystems
 Bits on disk.
 
-- [Unpacking Apple Archives](https://developer.apple.com/forums/thread/133985) | ([PDF](pdfs/Unpacking-Apple-Archives.pdf))
-- [On Filesystem Permissions](https://developer.apple.com/forums/thread/678819) | ([PDF](pdfs/On-File-System-Permissions.pdf))
 - [Extended Attributes and Zip Archive](https://developer.apple.com/forums/thread/690457) | ([PDF](pdfs/Extended-Attributes-and-Zip-Archive.pdf))
-- [Whither FileHandle?](https://developer.apple.com/forums/thread/690382) | ([PDF](pdfs/Whither-FileHandle.pdf))
+- [On Filesystem Permissions](https://developer.apple.com/forums/thread/678819) | ([PDF](pdfs/On-File-System-Permissions.pdf))
 - [Unpacking Apple Archives](https://developer.apple.com/forums/thread/133985) | ([PDF](pdfs/Unpacking-Apple-Archives.pdf))
+- [Whither FileHandle?](https://developer.apple.com/forums/thread/690382) | ([PDF](pdfs/Whither-FileHandle.pdf))
 
 ## iOS Background Activities
 Y U KILL MAH PROCESS?
@@ -105,7 +105,7 @@ Get down in the guts.
 
 - [Avoid Dispatch Global Concurrent Queues](https://developer.apple.com/forums/thread/711736) | ([PDF](pdfs/Avoid-Dispatch-Global-Concurrent-Queues.pdf))
 - [Running a Child Process with Standard Input and Output](https://developer.apple.com/forums/thread/690310) | ([PDF](pdfs/Running–a–Child-Process-with-Standard-Input-and-Output.pdf))
- [Swift 3 and BSD Sockets](https://developer.apple.com/forums/thread/60797) | ([PDF](pdfs/Swift-3-and-BSD-Sockets.pdf))
+- [Swift 3 and BSD Sockets](https://developer.apple.com/forums/thread/60797) | ([PDF](pdfs/Swift-3-and-BSD-Sockets.pdf))
 - [WWDC 2010 Session 207 Run Loops Section](https://developer.apple.com/forums/thread/717392) | ([PDF](pdfs/WWDC-2010-Session-207-Run-Loops-Section.pdf))
 
 ### Libraries and Frameworks
@@ -128,26 +128,26 @@ Get down in the guts.
 Making this talk to that.
 
 ### Debugging
-- [Network Debugging in the Field](https://developer.apple.com/forums/thread/66541) | ([PDF](pdfs/Network-Debugging-in-the-Field.pdf))
-- [Investigating Network Latency Problems](https://developer.apple.com/forums/thread/45210) | ([PDF](pdfs/Investigating-Network-Latency-Problems.pdf))
 - [Debugging HTTP Server-Side Errors](https://developer.apple.com/forums/thread/38886) | ([PDF](pdfs/Debugging-HTTP-Server-Side-Errors.pdf))
+- [Investigating Network Latency Problems](https://developer.apple.com/forums/thread/45210) | ([PDF](pdfs/Investigating-Network-Latency-Problems.pdf))
 - [Network Debugging articles](https://developer.apple.com/forums/thread/113581) | ([PDF](pdfs/Network-Debugging-articles.pdf))
+- [Network Debugging in the Field](https://developer.apple.com/forums/thread/66541) | ([PDF](pdfs/Network-Debugging-in-the-Field.pdf))
 - [Using mitmproxy to Analyse HTTP[S] Requests](https://developer.apple.com/forums/thread/54541) | ([PDF](pdfs/Using-mitmproxy-to-Analyse-HTTP[S]-Requests.pdf))
 
 ### Extensions
-- [Network Extension Framework Entitlements](https://developer.apple.com/forums/thread/67613) | ([PDF](pdfs/Network-Extension-Framework-Entitlements.pdf))
 - [NEHotspotHelper pseudo API](https://developer.apple.com/forums/thread/46929) | ([PDF](pdfs/NEHotspotHelper-pseudo-API.pdf))
+- [Network Extension Framework Entitlements](https://developer.apple.com/forums/thread/67613) | ([PDF](pdfs/Network-Extension-Framework-Entitlements.pdf))
 - [Network Extension Provider Memory Strategy](https://developer.apple.com/forums/thread/44942) | ([PDF](pdfs/Network-Extension-Provider-Memory-Strategy.pdf))
 - [Networking in a Short-Lived Extension](https://developer.apple.com/forums/thread/76659) | ([PDF](pdfs/Networking-in-a-Short-Lived-Extension.pdf))
 
 ### General
-- [On FTP](https://developer.apple.com/forums/thread/97469) | ([PDF](pdfs/On-FTP.pdf))
-- [Moving to Fewer, Larger Transfers](https://developer.apple.com/forums/thread/14853) | ([PDF](pdfs/Moving-to-Fewer,-Larger-Transfers-v2.pdf))
-- [Using the Multicast Networking Additional Capability](https://developer.apple.com/forums/thread/663271) | ([PDF](pdfs/Using-the-Multicast-Networking-Additional-Capability-v2.pdf))
-- [NSURLCache and Byte Ranges](https://developer.apple.com/forums/thread/92119) | ([PDF](pdfs/NSURLCache-and-Byte-Ranges.pdf))
-- [Wi-Fi Fundamentals](https://developer.apple.com/forums/thread/45283) | ([PDF](pdfs/Wi-Fi-Fundamentals.pdf))
 - [Five Reasons Why Synchronous Networking Is Bad](https://developer.apple.com/forums/thread/662329) | ([PDF](pdfs/Five-Reasons-Why-Synchronous-Networking-Is-Bad.pdf))
 - [Maintaining a TCP Connection in the Background](https://developer.apple.com/forums/thread/97824) | ([PDF](pdfs/Maintaining-a-TCP-Connection-in-the-Background.pdf))
+- [Moving to Fewer, Larger Transfers](https://developer.apple.com/forums/thread/14853) | ([PDF](pdfs/Moving-to-Fewer,-Larger-Transfers-v2.pdf))
+- [NSURLCache and Byte Ranges](https://developer.apple.com/forums/thread/92119) | ([PDF](pdfs/NSURLCache-and-Byte-Ranges.pdf))
+- [On FTP](https://developer.apple.com/forums/thread/97469) | ([PDF](pdfs/On-FTP.pdf))
+- [Using the Multicast Networking Additional Capability](https://developer.apple.com/forums/thread/663271) | ([PDF](pdfs/Using-the-Multicast-Networking-Additional-Capability-v2.pdf))
+- [Wi-Fi Fundamentals](https://developer.apple.com/forums/thread/45283) | ([PDF](pdfs/Wi-Fi-Fundamentals.pdf))
 
 ### IPv6
 - [IPv6 and App Review](https://developer.apple.com/forums/thread/49979) | ([PDF](pdfs/IPv6-and-App-Review.pdf))
