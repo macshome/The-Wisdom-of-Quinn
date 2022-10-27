@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+## 2022-10-27
+### Added
+- Create a Zip Archive With This One Weird Trick
+
 ## 2022-10-19
 ### Changed
 - Fixed sorting in some sections

@@ -53,6 +53,7 @@ App Store, Provisioning Profiles, Developer ID, and Notarization.
 ## Filesystems
 Bits on disk.
 
+- [Create a Zip Archive With This One Weird Trick](https://developer.apple.com/forums/thread/681770?answerId=677841022#677841022) | ([PDF](pdfs/System-API-for-generating-ZIP-compatible-archive.pdf))
 - [Extended Attributes and Zip Archive](https://developer.apple.com/forums/thread/690457) | ([PDF](pdfs/Extended-Attributes-and-Zip-Archive.pdf))
 - [On Filesystem Permissions](https://developer.apple.com/forums/thread/678819) | ([PDF](pdfs/On-File-System-Permissions.pdf))
 - [Unpacking Apple Archives](https://developer.apple.com/forums/thread/133985) | ([PDF](pdfs/Unpacking-Apple-Archives.pdf))
