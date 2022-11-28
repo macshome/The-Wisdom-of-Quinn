@@ -44,6 +44,7 @@ App Store, Provisioning Profiles, Developer ID, and Notarization.
 - [Notarising an Installer Package Containing a KEXT](https://developer.apple.com/forums/thread/116692) | ([PDF](pdfs/Notarising-an-Installer-Package-Containing-a-KEXT.pdf))
 - [Packaging a Daemon with a Provisioning Profile](https://developer.apple.com/forums/thread/129596) | ([PDF](pdfs/Packaging-a-Daemon-with-a-Provisioning-Profile-v2.pdf))
 - [Packaging Mac Software for Distribution](https://developer.apple.com/forums/thread/701581) | ([PDF](pdfs/Packaging-Mac-Software-for-Distribution.pdf))
+- [The Pros and Cons of Stapling](https://developer.apple.com/forums/thread/720093) | ([PDF](pdfs/The-Pros-and-Cons-of-Stapling.pdf))
 - [Resolving Gatekeeper Problems](https://developer.apple.com/forums/thread/706379) | ([PDF](pdfs/Resolving-Gatekeeper-Problems.pdf))
 - [Resolving Gatekeeper Problems Caused by Dangling Load Command Paths](https://developer.apple.com/forums/thread/706414) | ([PDF](pdfs/Resolving-Gatekeeper-Problems-Caused-by-Dangling-Load-Command-Paths.pdf))
 - [Sandboxed Helper Tool Crashing in `libsystem_secinit`](https://developer.apple.com/forums/thread/112800) | ([PDF](pdfs/Sandboxed-Helper-Tool-Crashing-in-`libsystem_secinit`.pdf))

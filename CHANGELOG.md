@@ -3,6 +3,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+## 2022-11-28
+### Added
+- The Pros and Cons of Stapling
+
+### Updated
+- An Apple Library Primer
+- Notarisation Resources
+
 ## 2022-10-27
 ### Added
 - Create a Zip Archive With This One Weird Trick
@@ -66,7 +74,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - WWDC 2010 Session 207 Run Loops Section
 - An Apple Library Primer
 
-## Updated
+### Updated
 - Troubleshooting -34018 Keychain Errors
 - KEXT Code Signing Problems
 - Notarisation and the macOS 10.9 SDK
@@ -79,7 +87,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Local Network Privacy FAQ
 - Unpacking Apple Archives
 
-## Deprecated
+### Deprecated
 *Link to new docs included in posts.*
 
 - Packaging a Daemon with a Provisioning Profile
