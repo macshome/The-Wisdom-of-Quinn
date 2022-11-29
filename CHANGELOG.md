@@ -3,11 +3,15 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+## 2022-11-29
+### Changed
+- Cleaned up some changelog formatting
+
 ## 2022-11-28
 ### Added
 - The Pros and Cons of Stapling
 
-### Updated
+### Changed
 - An Apple Library Primer
 - Notarisation Resources
 
@@ -16,18 +20,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Create a Zip Archive With This One Weird Trick
 
 ## 2022-10-19
-### Changed
-- Fixed sorting in some sections
-
 ### Added
 - Remote Debugging for Authorization Plugins
 - Defining An App Group Shared Between macOS and iOS
 
-## 2022-10-13
 ### Changed
-- Added CHANGELOG.md
-- Organized page into sections
+- Fixed sorting in some sections
 
+## 2022-10-13
 ### Added
 - iOS Background Execution Limits
 - Posting-a-Crash-Report
@@ -74,7 +74,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - WWDC 2010 Session 207 Run Loops Section
 - An Apple Library Primer
 
-### Updated
+### Changed
+- Added CHANGELOG.md
+- Organized page into sections
 - Troubleshooting -34018 Keychain Errors
 - KEXT Code Signing Problems
 - Notarisation and the macOS 10.9 SDK
@@ -116,24 +118,22 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Added
 - Embedding a Command Line Tool in a Sandboxed App
 
-### Updated
+### Changed
 - NSURLCache and Byte Ranges
 - Wi-Fi Fundamentals
-
-### Renamed
-- Using the Multicast Networking Entitlement to Using the Multicast Networking Additional Capability
+- Renamed Using the Multicast Networking Entitlement to Using the Multicast Networking Additional Capability
 
 ## 2021-05-07
 ### Added
 - On Filesystem Permissions
 - Data Vault Info
 
-### Updated
+### Changed
 - KWN & ESK’s Puzzle Page: Mutation Madness
 - Local Network Privacy FAQ
 
 ## 2021-04-14
-### Updated
+### Changed
 - Formatting fixes in On FTP
 - SecItem attributes for keys
 
