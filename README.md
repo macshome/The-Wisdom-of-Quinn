@@ -144,6 +144,7 @@ Making this talk to that.
 
 ### General
 - [Five Reasons Why Synchronous Networking Is Bad](https://developer.apple.com/forums/thread/662329) | ([PDF](pdfs/Five-Reasons-Why-Synchronous-Networking-Is-Bad.pdf))
+- [iOS Network Signal Strength](https://developer.apple.com/forums/thread/721067) | ([PDF](pdfs/iOS-Network-Signal-Strength.pdf))
 - [Maintaining a TCP Connection in the Background](https://developer.apple.com/forums/thread/97824) | ([PDF](pdfs/Maintaining-a-TCP-Connection-in-the-Background.pdf))
 - [Moving to Fewer, Larger Transfers](https://developer.apple.com/forums/thread/14853) | ([PDF](pdfs/Moving-to-Fewer,-Larger-Transfers-v2.pdf))
 - [NSURLCache and Byte Ranges](https://developer.apple.com/forums/thread/92119) | ([PDF](pdfs/NSURLCache-and-Byte-Ranges.pdf))
