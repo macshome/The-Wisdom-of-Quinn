@@ -39,6 +39,7 @@ App Store, Provisioning Profiles, Developer ID, and Notarization.
 - [Don’t Run App Store Distribution-Signed Code](https://developer.apple.com/forums/thread/707043) | ([PDF](pdfs/Don’t-Run-App-Store-Distribution-Signed-Code.pdf))
 - [Embedding a Command-Line Tool in a Sandboxed App](https://developer.apple.com/forums/thread/680212) | ([PDF](pdfs/Embedding-a-Command-Line-Tool-in-a-Sandboxed-App-v2.pdf))
 - [Error 1048 When Notarising](https://developer.apple.com/forums/thread/126901) | ([PDF](pdfs/Error-1048-When-Notarising.pdf))
+- [Finding a Capability’s Distribution Restrictions](https://developer.apple.com/forums/thread/721563) | ([PDF](pdfs/Finding-a-Capabilitys-Distribution-Restrictions.pdf))
 - [Notarisation Fundamentals](https://developer.apple.com/forums/thread/710738) | ([PDF](pdfs/Notarisation-Fundamentals.pdf))
 - [Notarisation and the macOS 10.9 SDK](https://developer.apple.com/forums/thread/659964) | ([PDF](pdfs/Notarisation-and-the-macOS-10.9-SDK-v2.pdf))
 - [Notarising an Installer Package Containing a KEXT](https://developer.apple.com/forums/thread/116692) | ([PDF](pdfs/Notarising-an-Installer-Package-Containing-a-KEXT.pdf))
