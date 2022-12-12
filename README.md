@@ -71,6 +71,7 @@ Y U KILL MAH PROCESS?
 ## Security
 Shhh… it's a secret.
 
+- [App Groups: macOS vs iOS: Fight!](https://developer.apple.com/forums/thread/721701) | ([PDF](pdfs/App-Groups-macOS-vs-iOS-Fight.pdf))
 - [BSD Privilege Escalation on macOS](https://developer.apple.com/forums/thread/708765) | ([PDF](pdfs/BSD-Privilege-Escalation-on-macOS.pdf))
 - [Calling Security Framework from Swift](https://developer.apple.com/forums/thread/710961) | ([PDF](pdfs/Calling-Security-Framework-from-Swift.pdf))
 - [Data Vault Info](https://developer.apple.com/forums/thread/114452?answerId=352695022#352695022) | ([PDF](pdfs/Data-Vault-Info.pdf))
