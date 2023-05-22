@@ -3,6 +3,52 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+## 2023-22-05
+### Added
+- Debugging a Network Extension Provider
+- A Peek Behind the NECP Curtain
+- TabularData Resources
+- Isolating Code Signing Problems from Build Problems
+- SecItem: Pitfalls and Best Practices
+- SecItem: Fundamentals
+- App Translocation Notes
+- Language Exception from RCTFatal
+
+### Changed
+- Networking Resources
+- Standard Memory Debugging Tools
+- App Sandbox Resources
+- An Apple Library Primer
+- Notarisation Resources
+- On File System Permissions
+- Debugging Resources
+- Objective-C Memory Management for Swift Programmers
+- Your Friend the System Log
+- Bug Reporting: How and Why?
+- Resolving Gatekeeper Problems
+- Sandboxed Helper Tool Crashing in `libsystem_secinit`
+- Local Network Privacy FAQ
+- Local Network Privacy FAQ-2
+- Local Network Privacy FAQ-11
+- On Free Memory
+- Network Extension Resources
+- TLS for App Developers
+- Quinn’s Top Ten DevForums Tips
+- Trusted Execution Resources
+- Security Resources
+- App Groups: macOS vs iOS: Fight!
+- Investigating Network Latency Problems
+- Resolving Library Loading Problems
+- XPC Resources
+- Fixed iOS Background Execution PDF link
+- Fixed Running a Child Process with Standard Input and Output PDF link
+
+### Deprecated
+*Link to new docs included in posts.*
+
+- Viewing Sandbox Violation Reports
+- On Mac Keychains
+
 ## 2022-12-12
 ### Added
 - App Groups: macOS vs iOS: Fight!

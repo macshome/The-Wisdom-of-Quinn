@@ -14,7 +14,8 @@ Lists and links of Apple resources that The Eskimo finds useful.
 - [Networking Resources (Old)](https://developer.apple.com/forums/thread/1001) | ([PDF](pdfs/Networking-Resources.pdf))
 - [Notarisation Resources](https://developer.apple.com/forums/thread/707377) | ([PDF](pdfs/Notarisation-Resources.pdf))
 - [Security Resources](https://developer.apple.com/forums/thread/1002) | ([PDF](pdfs/Security-Resources.pdf))
-- [Service Management Resources](https://developer.apple.com/forums/thread/708685) | ([PDF](pdfs/Service-Management-Resources.pdf))
+- [Service Management Resources](https://developer.apple.com/forums/thread/708685) | ([PDF](pdfs/TabularData-Resources.pdf))
+- [TabularData Resources](https://developer.apple.com/forums/thread/726723) | ([PDF](pdfs/Trusted-Execution-Resources.pdf))
 - [Trusted Execution Resources](https://developer.apple.com/forums/thread/707357) | ([PDF](pdfs/Trusted-Execution-Resources.pdf))
 - [XPC Resources](https://developer.apple.com/forums/thread/708877) | ([PDF](pdfs/XPC-Resources.pdf))
 
@@ -26,6 +27,7 @@ Everybody loves code signing!
 - [Creating Distribution-Signed Code for Mac](https://developer.apple.com/forums/thread/712005) | ([PDF](pdfs/Creating-Distribution-Signed-Code-for-Mac.pdf))
 - [`--deep` Considered Harmful](https://developer.apple.com/forums/thread/129980) | ([PDF](pdfs/`--deep`-Considered-Harmful.pdf))
 - [Fixing an untrusted code signing certificate](https://developer.apple.com/forums/thread/712043) | ([PDF](pdfs/Fixing-an-untrusted-code-signing-certificate.pdf))
+- [Isolating Code Signing Problems from Build Problems](https://developer.apple.com/forums/thread/725876) | ([PDF](pdfs/Isolating-Code-Signing-Problems-from-Build-Problems.pdf))
 - [KEXT Code Signing Problems](https://developer.apple.com/forums/thread/52353) | ([PDF](pdfs/KEXT-Code-Signing-Problems-v2.pdf))
 - [Manual Code Signing Example](https://developer.apple.com/forums/thread/130855) | ([PDF](pdfs/Manual-Code-Signing-Example.pdf))
 - [Resolving Code Signing Crashes on Launch](https://developer.apple.com/forums/thread/706427) | ([PDF](pdfs/Resolving-Code-Signing-Crashes-on-Launch.pdf))
@@ -36,6 +38,7 @@ Everybody loves code signing!
 ## Distribution
 App Store, Provisioning Profiles, Developer ID, and Notarization.
 
+- [App Translocation Notes](https://developer.apple.com/forums/thread/724969) | ([PDF](pdfs/App-Translocation-Notes.pdf))
 - [Don’t Run App Store Distribution-Signed Code](https://developer.apple.com/forums/thread/707043) | ([PDF](pdfs/Don’t-Run-App-Store-Distribution-Signed-Code.pdf))
 - [Embedding a Command-Line Tool in a Sandboxed App](https://developer.apple.com/forums/thread/680212) | ([PDF](pdfs/Embedding-a-Command-Line-Tool-in-a-Sandboxed-App-v2.pdf))
 - [Error 1048 When Notarising](https://developer.apple.com/forums/thread/126901) | ([PDF](pdfs/Error-1048-When-Notarising.pdf))
@@ -64,7 +67,7 @@ Bits on disk.
 ## iOS Background Activities
 Y U KILL MAH PROCESS?
 
-- [iOS Background Execution Limits](https://developer.apple.com/forums/thread/685525) | ([PDF](pdfs/iOS-Background-Execution-Limits))
+- [iOS Background Execution Limits](https://developer.apple.com/forums/thread/685525) | ([PDF](pdfs/iOS-Background-Execution-Limits.pdf))
 - [Testing Background Session Code](https://developer.apple.com/forums/thread/14855) | ([PDF](pdfs/Testing-Background-Session-Code.pdf))
 - [UIApplication Background Task Notes](https://developer.apple.com/forums/thread/85066) | ([PDF](pdfs/UIApplication-Background-Task-Notes.pdf))
 
@@ -89,6 +92,8 @@ Shhh… it's a secret.
 - [Keychain sharing](https://developer.apple.com/forums/thread/67047?answerId=193828022#193828022) | ([PDF](pdfs/Confusion-about-access-groups.pdf))
 - [On Mac Keychains](https://developer.apple.com/forums/thread/696431) | ([PDF](pdfs/On-Mac-Keychains.pdf))
 - [SecItem attributes for keys](https://developer.apple.com/forums/thread/70959) | ([PDF](pdfs/SecItem-attributes-for-keys.pdf))
+- [SecItem: Fundamentals](https://developer.apple.com/forums/thread/724023) | ([PDF](pdfs/SecItem-Fundamentals.pdf))
+- [SecItem: Pitfalls and Best Practices](https://developer.apple.com/forums/thread/724013) | ([PDF](pdfs/SecItem-Pitfalls-and-Best-Practices.pdf))
 - [Troubleshooting -34018 Keychain Errors](https://developer.apple.com/forums/thread/114456) | ([PDF](pdfs/Troubleshooting--34018-Keychain-Errors-v2.pdf))
 
 
@@ -108,9 +113,12 @@ Tell me about what happened.
 Get down in the guts.
 
 - [Avoid Dispatch Global Concurrent Queues](https://developer.apple.com/forums/thread/711736) | ([PDF](pdfs/Avoid-Dispatch-Global-Concurrent-Queues.pdf))
-- [Running a Child Process with Standard Input and Output](https://developer.apple.com/forums/thread/690310) | ([PDF](pdfs/Running–a–Child-Process-with-Standard-Input-and-Output.pdf))
+- [Running a Child Process with Standard Input and Output](https://developer.apple.com/forums/thread/690310) | ([PDF](pdfs/Running-a-Child-Process-with-Standard-Input-and-Output.pdf))
 - [Swift 3 and BSD Sockets](https://developer.apple.com/forums/thread/60797) | ([PDF](pdfs/Swift-3-and-BSD-Sockets.pdf))
 - [WWDC 2010 Session 207 Run Loops Section](https://developer.apple.com/forums/thread/717392) | ([PDF](pdfs/WWDC-2010-Session-207-Run-Loops-Section.pdf))
+
+### Debugging
+- [Language Exception from RCTFatal](https://developer.apple.com/forums/thread/723952) | ([PDF](pdfs/Language-Exception-from-RCTFatal.pdf))
 
 ### Libraries and Frameworks
 - [An Apple Library Primer](https://developer.apple.com/forums/thread/715385) | ([PDF](pdfs/An-Apple-Library-Primer.pdf))
@@ -132,6 +140,7 @@ Get down in the guts.
 Making this talk to that.
 
 ### Debugging
+- [Debugging a Network Extension Provider](https://developer.apple.com/forums/thread/725805) | ([PDF](pdfs/Debugging-a-Network-Extension-Provider.pdf))
 - [Debugging HTTP Server-Side Errors](https://developer.apple.com/forums/thread/38886) | ([PDF](pdfs/Debugging-HTTP-Server-Side-Errors.pdf))
 - [Investigating Network Latency Problems](https://developer.apple.com/forums/thread/45210) | ([PDF](pdfs/Investigating-Network-Latency-Problems.pdf))
 - [Network Debugging articles](https://developer.apple.com/forums/thread/113581) | ([PDF](pdfs/Network-Debugging-articles.pdf))
@@ -139,6 +148,7 @@ Making this talk to that.
 - [Using mitmproxy to Analyse HTTP[S] Requests](https://developer.apple.com/forums/thread/54541) | ([PDF](pdfs/Using-mitmproxy-to-Analyse-HTTP[S]-Requests.pdf))
 
 ### Extensions
+- [A Peek Behind the NECP Curtain](https://developer.apple.com/forums/thread/725715) | ([PDF](pdfs/A-Peek-Behind-the-NECP-Curtain.pdf))
 - [NEHotspotHelper pseudo API](https://developer.apple.com/forums/thread/46929) | ([PDF](pdfs/NEHotspotHelper-pseudo-API.pdf))
 - [Network Extension Framework Entitlements](https://developer.apple.com/forums/thread/67613) | ([PDF](pdfs/Network-Extension-Framework-Entitlements.pdf))
 - [Network Extension Provider Memory Strategy](https://developer.apple.com/forums/thread/44942) | ([PDF](pdfs/Network-Extension-Provider-Memory-Strategy.pdf))
