@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+## 2023-24-05
+### Added
+- Change indicators on the main page
+
 ## 2023-22-05
 ### Added
 - Debugging a Network Extension Provider
