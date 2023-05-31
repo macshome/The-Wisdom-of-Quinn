@@ -3,6 +3,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+## 2023-31-05
+### Changed
+- Notarisation Resources
+- An Apple Library Primer
+
 ## 2023-24-05
 ### Added
 - Change indicators on the main page
