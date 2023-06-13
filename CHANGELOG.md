@@ -3,6 +3,18 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+## 2023-13-6
+### Changed
+- iOS Background Execution Limits
+- Notarisation Resources
+- Code Signing Resources
+- Recording Private Data in the System Log
+- Networking Resources
+- XPC Resources
+- Using the Multicast Networking Additional Capability
+- Your Friend the System Log
+- An Apple Library Primer
+
 ## 2023-31-05
 ### Changed
 - Notarisation Resources

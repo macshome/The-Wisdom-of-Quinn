@@ -16,18 +16,18 @@ Lists and links of Apple resources that The Eskimo finds useful.
 
 - [App Sandbox Resources](https://developer.apple.com/forums/thread/707325) | ([PDF](pdfs/App-Sandbox-Resources.pdf)) 
 - [Background Tasks Resources](https://developer.apple.com/forums/thread/707503) | ([PDF](pdfs/Background-Tasks-Resources.pdf))
-- [Code Signing Resources](https://developer.apple.com/forums/thread/707080) | ([PDF](pdfs/Code-Signing-Resources.pdf))
+- [Code Signing Resources](https://developer.apple.com/forums/thread/707080) | ([PDF](pdfs/Code-Signing-Resources.pdf)) 🟡
 - [Debugging Resources](https://developer.apple.com/forums/thread/707324) | ([PDF](pdfs/Debugging-Resources.pdf)) 
 - [Files and Storage Resources](https://developer.apple.com/forums/thread/712981) | ([PDF](pdfs/Files-and-Storage-Resources.pdf))
 - [Network Extension Resources](https://developer.apple.com/forums/thread/707294) | ([PDF](pdfs/Network-Extension-Resources.pdf)) 
-- [Networking Resources](https://developer.apple.com/forums/thread/707320) | ([PDF](pdfs/Networking-Resources.pdf))
+- [Networking Resources](https://developer.apple.com/forums/thread/707320) | ([PDF](pdfs/Networking-Resources.pdf)) 🟡
 - [Networking Resources (Old)](https://developer.apple.com/forums/thread/1001) | ([PDF](pdfs/Networking-Resources.pdf))
 - [Notarisation Resources](https://developer.apple.com/forums/thread/707377) | ([PDF](pdfs/Notarisation-Resources.pdf)) 🟡
 - [Security Resources](https://developer.apple.com/forums/thread/1002) | ([PDF](pdfs/Security-Resources.pdf)) 
 - [Service Management Resources](https://developer.apple.com/forums/thread/708685) | ([PDF](pdfs/TabularData-Resources.pdf)) 
 - [TabularData Resources](https://developer.apple.com/forums/thread/726723) | ([PDF](pdfs/Trusted-Execution-Resources.pdf))
 - [Trusted Execution Resources](https://developer.apple.com/forums/thread/707357) | ([PDF](pdfs/Trusted-Execution-Resources.pdf)) 
-- [XPC Resources](https://developer.apple.com/forums/thread/708877) | ([PDF](pdfs/XPC-Resources.pdf)) 
+- [XPC Resources](https://developer.apple.com/forums/thread/708877) | ([PDF](pdfs/XPC-Resources.pdf)) 🟡
 
 ## Code Signing
 Everybody loves code signing!
@@ -77,7 +77,7 @@ Bits on disk.
 ## iOS Background Activities
 Y U KILL MAH PROCESS?
 
-- [iOS Background Execution Limits](https://developer.apple.com/forums/thread/685525) | ([PDF](pdfs/iOS-Background-Execution-Limits.pdf))
+- [iOS Background Execution Limits](https://developer.apple.com/forums/thread/685525) | ([PDF](pdfs/iOS-Background-Execution-Limits.pdf)) 🟡
 - [Testing Background Session Code](https://developer.apple.com/forums/thread/14855) | ([PDF](pdfs/Testing-Background-Session-Code.pdf))
 - [UIApplication Background Task Notes](https://developer.apple.com/forums/thread/85066) | ([PDF](pdfs/UIApplication-Background-Task-Notes.pdf))
 
@@ -114,10 +114,10 @@ Tell me about what happened.
 - [Fetching the Notary Log](https://developer.apple.com/forums/thread/705839) | ([PDF](pdfs/Fetching-the-Notary-Log.pdf))
 - [On Log Noise](https://developer.apple.com/forums/thread/115461) | ([PDF](pdfs/On-Log-Noise.pdf))
 - [Parsing Dates Without Times](https://developer.apple.com/forums/thread/655000) | ([PDF](pdfs/Parsing-Dates-Without-Times.pdf))
-- [Recording Private Data in the System Log](https://developer.apple.com/forums/thread/705810) | ([PDF](pdfs/Recording-Private-Data-in-the-System-Log.pdf))
+- [Recording Private Data in the System Log](https://developer.apple.com/forums/thread/705810) | ([PDF](pdfs/Recording-Private-Data-in-the-System-Log.pdf)) 🟡
 - [Unified Logging from the Kernel](https://developer.apple.com/forums/thread/91424) | ([PDF](pdfs/Unified-Logging-from-the-Kernel.pdf))
 - [Viewing Sandbox Violation Reports](https://developer.apple.com/forums/thread/702735) | ([PDF](pdfs/Viewing-Sandbox-Violation-Reports.pdf)) 🔴
-- [Your Friend the System Log](https://developer.apple.com/forums/thread/705868) | ([PDF](pdfs/Your-Friend-the-System-Log.pdf)) 
+- [Your Friend the System Log](https://developer.apple.com/forums/thread/705868) | ([PDF](pdfs/Your-Friend-the-System-Log.pdf)) 🟡
 
 ## Low-Level Fiddly Bits
 Get down in the guts.
@@ -171,7 +171,7 @@ Making this talk to that.
 - [Moving to Fewer, Larger Transfers](https://developer.apple.com/forums/thread/14853) | ([PDF](pdfs/Moving-to-Fewer,-Larger-Transfers-v2.pdf)) 🔴
 - [NSURLCache and Byte Ranges](https://developer.apple.com/forums/thread/92119) | ([PDF](pdfs/NSURLCache-and-Byte-Ranges.pdf))
 - [On FTP](https://developer.apple.com/forums/thread/97469) | ([PDF](pdfs/On-FTP.pdf))
-- [Using the Multicast Networking Additional Capability](https://developer.apple.com/forums/thread/663271) | ([PDF](pdfs/Using-the-Multicast-Networking-Additional-Capability-v2.pdf)) 🔴
+- [Using the Multicast Networking Additional Capability](https://developer.apple.com/forums/thread/663271) | ([PDF](pdfs/Using-the-Multicast-Networking-Additional-Capability-v2.pdf)) 🔴 🟡
 - [Wi-Fi Fundamentals](https://developer.apple.com/forums/thread/45283) | ([PDF](pdfs/Wi-Fi-Fundamentals.pdf))
 
 ### IPv6
