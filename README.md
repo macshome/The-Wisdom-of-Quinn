@@ -9,7 +9,7 @@ The quick way to see updates is to follow the bouncing balls.
 
 While the New and Updated flags will change with each update, the Deprecated flag is forever. Luckily for us, deprecated posts have been replaced by official documentation.
 
-For a comprehensive list of updates, see the [CHANGELOG] (CHANGELOG.md)
+For a comprehensive list of updates, see the [CHANGELOG](CHANGELOG.md)
 
 ## Resource Pages
 Lists and links of Apple resources that The Eskimo finds useful.
