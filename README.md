@@ -20,14 +20,14 @@ Lists and links of Apple resources that The Eskimo finds useful.
 - [Debugging Resources](https://developer.apple.com/forums/thread/707324) | ([PDF](pdfs/Debugging-Resources.pdf)) 
 - [Files and Storage Resources](https://developer.apple.com/forums/thread/712981) | ([PDF](pdfs/Files-and-Storage-Resources.pdf))
 - [Network Extension Resources](https://developer.apple.com/forums/thread/707294) | ([PDF](pdfs/Network-Extension-Resources.pdf)) 
-- [Networking Resources](https://developer.apple.com/forums/thread/707320) | ([PDF](pdfs/Networking-Resources.pdf)) 🟡
+- [Networking Resources](https://developer.apple.com/forums/thread/707320) | ([PDF](pdfs/Networking-Resources.pdf))
 - [Networking Resources (Old)](https://developer.apple.com/forums/thread/1001) | ([PDF](pdfs/Networking-Resources.pdf))
-- [Notarisation Resources](https://developer.apple.com/forums/thread/707377) | ([PDF](pdfs/Notarisation-Resources.pdf)) 🟡
+- [Notarisation Resources](https://developer.apple.com/forums/thread/707377) | ([PDF](pdfs/Notarisation-Resources.pdf))
 - [Security Resources](https://developer.apple.com/forums/thread/1002) | ([PDF](pdfs/Security-Resources.pdf)) 
-- [Service Management Resources](https://developer.apple.com/forums/thread/708685) | ([PDF](pdfs/TabularData-Resources.pdf)) 
+- [Service Management Resources](https://developer.apple.com/forums/thread/708685) | ([PDF](pdfs/TabularData-Resources.pdf)) 🟡
 - [TabularData Resources](https://developer.apple.com/forums/thread/726723) | ([PDF](pdfs/Trusted-Execution-Resources.pdf))
 - [Trusted Execution Resources](https://developer.apple.com/forums/thread/707357) | ([PDF](pdfs/Trusted-Execution-Resources.pdf)) 
-- [XPC Resources](https://developer.apple.com/forums/thread/708877) | ([PDF](pdfs/XPC-Resources.pdf)) 🟡
+- [XPC Resources](https://developer.apple.com/forums/thread/708877) | ([PDF](pdfs/XPC-Resources.pdf))
 
 ## Code Signing
 Everybody loves code signing!
@@ -48,16 +48,19 @@ Everybody loves code signing!
 ## Distribution
 App Store, Provisioning Profiles, Developer ID, and Notarization.
 
-- [App Translocation Notes](https://developer.apple.com/forums/thread/724969) | ([PDF](pdfs/App-Translocation-Notes.pdf)) 
+- [App Translocation Notes](https://developer.apple.com/forums/thread/724969) | ([PDF](pdfs/App-Translocation-Notes.pdf))
+- [Background items showing up with the wrong name](https://developer.apple.com/forums/thread/732805) | ([PDF](pdfs/Background-items-showing-up-with-the-wrong-name.pdf)) 🟢
 - [Don’t Run App Store Distribution-Signed Code](https://developer.apple.com/forums/thread/707043) | ([PDF](pdfs/Don’t-Run-App-Store-Distribution-Signed-Code.pdf))
 - [Embedding a Command-Line Tool in a Sandboxed App](https://developer.apple.com/forums/thread/680212) | ([PDF](pdfs/Embedding-a-Command-Line-Tool-in-a-Sandboxed-App-v2.pdf)) 🔴
 - [Error 1048 When Notarising](https://developer.apple.com/forums/thread/126901) | ([PDF](pdfs/Error-1048-When-Notarising.pdf))
 - [Finding a Capability’s Distribution Restrictions](https://developer.apple.com/forums/thread/721563) | ([PDF](pdfs/Finding-a-Capabilitys-Distribution-Restrictions.pdf))
+- [Identifying a Cloud Managed Signing Certificate](https://developer.apple.com/forums/thread/732544) | ([PDF](pdfs/Identifying-a-Cloud-Managed-Signing-Certificate.pdf)) 🟢
 - [Notarisation Fundamentals](https://developer.apple.com/forums/thread/710738) | ([PDF](pdfs/Notarisation-Fundamentals.pdf))
 - [Notarisation and the macOS 10.9 SDK](https://developer.apple.com/forums/thread/659964) | ([PDF](pdfs/Notarisation-and-the-macOS-10.9-SDK-v2.pdf))
 - [Notarising an Installer Package Containing a KEXT](https://developer.apple.com/forums/thread/116692) | ([PDF](pdfs/Notarising-an-Installer-Package-Containing-a-KEXT.pdf))
 - [Packaging a Daemon with a Provisioning Profile](https://developer.apple.com/forums/thread/129596) | ([PDF](pdfs/Packaging-a-Daemon-with-a-Provisioning-Profile-v2.pdf)) 🔴
 - [Packaging Mac Software for Distribution](https://developer.apple.com/forums/thread/701581) | ([PDF](pdfs/Packaging-Mac-Software-for-Distribution.pdf))
+- [The Care and Feeding of Developer ID](https://developer.apple.com/forums/thread/732320) | ([PDF](pdfs/The-Care-and-Feeding-of-Developer-ID.pdf)) 🟢
 - [The Pros and Cons of Stapling](https://developer.apple.com/forums/thread/720093) | ([PDF](pdfs/The-Pros-and-Cons-of-Stapling.pdf))
 - [Resolving Gatekeeper Problems](https://developer.apple.com/forums/thread/706379) | ([PDF](pdfs/Resolving-Gatekeeper-Problems.pdf)) 
 - [Resolving Gatekeeper Problems Caused by Dangling Load Command Paths](https://developer.apple.com/forums/thread/706414) | ([PDF](pdfs/Resolving-Gatekeeper-Problems-Caused-by-Dangling-Load-Command-Paths.pdf))
@@ -77,9 +80,9 @@ Bits on disk.
 ## iOS Background Activities
 Y U KILL MAH PROCESS?
 
-- [iOS Background Execution Limits](https://developer.apple.com/forums/thread/685525) | ([PDF](pdfs/iOS-Background-Execution-Limits.pdf)) 🟡
+- [iOS Background Execution Limits](https://developer.apple.com/forums/thread/685525) | ([PDF](pdfs/iOS-Background-Execution-Limits.pdf))
 - [Testing Background Session Code](https://developer.apple.com/forums/thread/14855) | ([PDF](pdfs/Testing-Background-Session-Code.pdf))
-- [UIApplication Background Task Notes](https://developer.apple.com/forums/thread/85066) | ([PDF](pdfs/UIApplication-Background-Task-Notes.pdf))
+- [UIApplication Background Task Notes](https://developer.apple.com/forums/thread/85066) | ([PDF](pdfs/UIApplication-Background-Task-Notes.pdf)) 🟡
 
 ## Security
 Shhh… it's a secret.
@@ -113,11 +116,11 @@ Tell me about what happened.
 - [Implementing Your Own Crash Reporter](https://developer.apple.com/forums/thread/113742) | ([PDF](pdfs/Implementing-Your-Own-Crash-Reporter.pdf))
 - [Fetching the Notary Log](https://developer.apple.com/forums/thread/705839) | ([PDF](pdfs/Fetching-the-Notary-Log.pdf))
 - [On Log Noise](https://developer.apple.com/forums/thread/115461) | ([PDF](pdfs/On-Log-Noise.pdf))
-- [Parsing Dates Without Times](https://developer.apple.com/forums/thread/655000) | ([PDF](pdfs/Parsing-Dates-Without-Times.pdf))
-- [Recording Private Data in the System Log](https://developer.apple.com/forums/thread/705810) | ([PDF](pdfs/Recording-Private-Data-in-the-System-Log.pdf)) 🟡
+- [Parsing Dates Without Times](https://developer.apple.com/forums/thread/655000) | ([PDF](pdfs/Parsing-Dates-Without-Times.pdf)) 🟡
+- [Recording Private Data in the System Log](https://developer.apple.com/forums/thread/705810) | ([PDF](pdfs/Recording-Private-Data-in-the-System-Log.pdf))
 - [Unified Logging from the Kernel](https://developer.apple.com/forums/thread/91424) | ([PDF](pdfs/Unified-Logging-from-the-Kernel.pdf))
 - [Viewing Sandbox Violation Reports](https://developer.apple.com/forums/thread/702735) | ([PDF](pdfs/Viewing-Sandbox-Violation-Reports.pdf)) 🔴
-- [Your Friend the System Log](https://developer.apple.com/forums/thread/705868) | ([PDF](pdfs/Your-Friend-the-System-Log.pdf)) 🟡
+- [Your Friend the System Log](https://developer.apple.com/forums/thread/705868) | ([PDF](pdfs/Your-Friend-the-System-Log.pdf))
 
 ## Low-Level Fiddly Bits
 Get down in the guts.
@@ -128,10 +131,11 @@ Get down in the guts.
 - [WWDC 2010 Session 207 Run Loops Section](https://developer.apple.com/forums/thread/717392) | ([PDF](pdfs/WWDC-2010-Session-207-Run-Loops-Section.pdf))
 
 ### Debugging
-- [Language Exception from RCTFatal](https://developer.apple.com/forums/thread/723952) | ([PDF](pdfs/Language-Exception-from-RCTFatal.pdf)) 
+- [Accessing Global Variables on Apple Silicon](https://developer.apple.com/forums/thread/731756) | ([PDF](pdfs/)) 🟢
+- [Language Exception from RCTFatal](https://developer.apple.com/forums/thread/723952) | ([PDF](pdfs/Accessing-Global-Variables-on-Apple-Silicon.pdf)) 
 
 ### Libraries and Frameworks
-- [An Apple Library Primer](https://developer.apple.com/forums/thread/715385) | ([PDF](pdfs/An-Apple-Library-Primer.pdf)) 🟡
+- [An Apple Library Primer](https://developer.apple.com/forums/thread/715385) | ([PDF](pdfs/An-Apple-Library-Primer.pdf))
 - [Async Signal Safe Functions vs Dyld Lazy Binding](https://developer.apple.com/forums/thread/116571) | ([PDF](pdfs/Async-Signal-Safe-Functions-vs-Dyld-Lazy-Binding.pdf))
 - [Resolving Library Loading Problems](https://developer.apple.com/forums/thread/706437) | ([PDF](pdfs/Resolving-Library-Loading-Problems.pdf)) 
 
@@ -171,7 +175,7 @@ Making this talk to that.
 - [Moving to Fewer, Larger Transfers](https://developer.apple.com/forums/thread/14853) | ([PDF](pdfs/Moving-to-Fewer,-Larger-Transfers-v2.pdf)) 🔴
 - [NSURLCache and Byte Ranges](https://developer.apple.com/forums/thread/92119) | ([PDF](pdfs/NSURLCache-and-Byte-Ranges.pdf))
 - [On FTP](https://developer.apple.com/forums/thread/97469) | ([PDF](pdfs/On-FTP.pdf))
-- [Using the Multicast Networking Additional Capability](https://developer.apple.com/forums/thread/663271) | ([PDF](pdfs/Using-the-Multicast-Networking-Additional-Capability-v2.pdf)) 🔴 🟡
+- [Using the Multicast Networking Additional Capability](https://developer.apple.com/forums/thread/663271) | ([PDF](pdfs/Using-the-Multicast-Networking-Additional-Capability-v2.pdf)) 🔴
 - [Wi-Fi Fundamentals](https://developer.apple.com/forums/thread/45283) | ([PDF](pdfs/Wi-Fi-Fundamentals.pdf))
 
 ### IPv6
@@ -207,7 +211,7 @@ Making this talk to that.
 ## Odds and Ends
 General info and some puzzles.
 
-- [Bug Reporting: How and Why?](https://developer.apple.com/forums/thread/712889) | ([PDF](pdfs/Bug-Reporting:-How-and-Why.pdf)) 
+- [Bug Reporting: How and Why?](https://developer.apple.com/forums/thread/712889) | ([PDF](pdfs/Bug-Reporting-How-and-Why.pdf)) 🟡
 - [KWN & ESK’s Puzzle Page: Mutation Madness](https://developer.apple.com/forums/thread/128559) | ([PDF](pdfs/KWN-&-ESK’s-Puzzle-Page/-Mutation-Madness.pdf))
 - [Posting a Crash Report](https://developer.apple.com/forums/thread/688669) | ([PDF](pdfs/Posting-a-Crash-Report.pdf))
 - [What is an exception?](https://developer.apple.com/forums/thread/680584) | ([PDF](pdfs/What-is-an-exception.pdf))

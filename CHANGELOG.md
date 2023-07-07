@@ -3,6 +3,20 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+## 2023-7-7
+### Added
+- Accessing Global Variables on Apple Silicon
+- Identifying a Cloud Managed Signing Certificate
+- The Care and Feeding of Developer ID
+- Background items showing up with the wrong name
+
+### Changed
+- Parsing Dates Without Times
+- UIApplication Background Task Notes
+- Code Signing Resources
+- Service Management Resources
+- Bug Reporting: How and Why?
+
 ## 2023-13-6
 ### Changed
 - iOS Background Execution Limits
