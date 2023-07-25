@@ -157,12 +157,12 @@ Making this talk to that.
 
 ### BSD Sockets
 - [Calling BSD Sockets from Swift](https://developer.apple.com/forums/thread/734124) | ([PDF](pdfs/Calling-BSD-Sockets-from-Swift.pdf)) 🟢
--	[QSocket: Addresses](https://developer.apple.com/forums/thread/734144) | ([PDF](pdfs/QSocket-Addresses.pdf)) 🟢
--	[QSocket: DNS](https://developer.apple.com/forums/thread/734158) | ([PDF](pdfs/QSocket-DNS.pdf)) 🟢
--	[QSocket: Interfaces](https://developer.apple.com/forums/thread/734120) | ([PDF](pdfs/QSocket-Interfaces.pdf)) 🟢
--	[QSocket: System Additions](https://developer.apple.com/forums/thread/734139) | ([PDF](pdfs/QSocket-System-Additions.pdf)) 🟢
-- 	[QSocket: I/O](https://developer.apple.com/forums/thread/734125) | ([PDF](pdfs/QSocket-I-O.pdf)) 🟢
-- [QSocket: Socket Options](https://developer.apple.com/forums/thread/734140) | ([PDF](pdfs/QSocket-Socket-Options.pdf)) 🟢
+	-	[QSocket: Addresses](https://developer.apple.com/forums/thread/734144) | ([PDF](pdfs/QSocket-Addresses.pdf)) 🟢
+	-	[QSocket: DNS](https://developer.apple.com/forums/thread/734158) | ([PDF](pdfs/QSocket-DNS.pdf)) 🟢
+	-	[QSocket: Interfaces](https://developer.apple.com/forums/thread/734120) | ([PDF](pdfs/QSocket-Interfaces.pdf)) 🟢
+	-	[QSocket: System Additions](https://developer.apple.com/forums/thread/734139) | ([PDF](pdfs/QSocket-System-Additions.pdf)) 🟢
+	- 	[QSocket: I/O](https://developer.apple.com/forums/thread/734125) | ([PDF](pdfs/QSocket-I-O.pdf)) 🟢
+	- [QSocket: Socket Options](https://developer.apple.com/forums/thread/734140) | ([PDF](pdfs/QSocket-Socket-Options.pdf)) 🟢
 
 ### Non-Standard Networking
 - [Extra-ordinary Networking](https://developer.apple.com/forums/thread/734348) | ([PDF](pdfs/Extra-ordinary-Networking.pdf)) 🟢
