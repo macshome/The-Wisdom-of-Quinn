@@ -3,6 +3,30 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+## 2023-25-07
+### Added
+- Using a Link Map to Track Down a Symbol’s Origin
+- TestFlight, Provisioning Profiles, and the Mac App Store
+- Calling BSD Sockets from Swift
+	- QSocket: Addresses
+	- QSocket: DNS
+	- QSocket: Interfaces
+	- QSocket: System Additions
+	- QSocket: I/O
+	- QSocket: Socket Options
+- Extra-ordinary Networking
+ 	- The iOS Wi-Fi Lifecycle
+	- Network Interface Concepts
+	- Network Interface Techniques
+	- Network Interface APIs
+	- Running an HTTP Request over WWAN
+	- Showing Connection Information in an iOS Server
+	- Don’t Try to Get the Device’s IP Address
+	- Working with a Wi-Fi Accessory
+
+### Changed
+- Testing Background Session Code
+- 
 ## 2023-7-7
 ### Added
 - Accessing Global Variables on Apple Silicon
