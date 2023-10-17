@@ -3,6 +3,44 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+## 2023-17-10
+### Added
+- Using a Sysdiagnose Log to Debug a Hard-to-Reproduce Problem
+- Network Extension and VPN Glossary
+- Exporting a Developer ID Network Extension
+- Local Network Privacy FAQ-16
+- Local Network Privacy FAQ-17
+- Dynamic Library Full Path Alternative
+- Dynamic Library Standard Setup for Apps
+- Dynamic Library Identification
+- Getting Started with Bonjour
+- Availability of Low-Level APIs
+- Debugging HTTP Proxies and Certificate Transparency
+- Investigating Third-Party IDE Integration Problems
+
+### Changed
+- Your Friend the System Log
+- Network Extension Resources
+- Working with a Wi-Fi Accessory
+- Trusted Execution Resources
+- The Care and Feeding of Developer ID
+- Moving to Fewer, Larger Transfers
+- App Sandbox Resources
+- XPC Resources
+- SecItem: Pitfalls and Best Practices
+- An Apple Library Primer
+- Files and Storage Resources
+- Local Network Privacy FAQ
+- Extra-ordinary Networking
+- SecItem: Fundamentals
+- Code Signing Resources
+- Networking in a Short-Lived Extension
+- TestFlight, Provisioning Profiles, and the Mac App Store
+- The iOS Wi-Fi Lifecycle
+- On File System Permissions
+- Networking Resources
+
+
 ## 2023-25-07
 ### Added
 - Using a Link Map to Track Down a Symbol’s Origin
