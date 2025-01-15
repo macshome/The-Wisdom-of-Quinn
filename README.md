@@ -1,3 +1,21 @@
+# Some Sad News
+
+With the most recent update to the Apple Developer Forums, it’s become pretty much impossible to update this collected wisdom in any regular way. This is why there hasn’t been an update to the archive in a while.
+
+The main issues are:
+* Apple staff no longer have individual accounts.
+* The collective “Apple” accounts are not searchable.
+
+How I used to update the archive was just to look at Quinn’s profile page, and I could see new posts, updates, and solutions he provided. Now he is listed as “DTS Engineer”. This might not necessarily be too bad, but those collective accounts don’t have profile pages at all. There is no easy way to see the posts that fall under that user name.
+
+If you try to search for that username, it doesn’t really do what you expect either. It just searches for that string in posts, not for posts by that user.
+
+Searching for “user: DTS Engineer Quinn” does a fairly decent job of finding results, but they are all over the place now. You can only see 15 of them at a time on the new forums as well.
+
+Without the easy and concise way to just see the updates, it is now very, very time-consuming to track down new nuggets of wisdom.
+
+Maybe I’ll give it another shot in a while, but for now, we are on hold.
+
 # The Wisdom of Quinn
 Informative DevForum posts from everyone's favorite DTS member. Share and Enjoy®
 
