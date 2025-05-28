@@ -156,6 +156,7 @@ Get down in the guts.
 - [Accessing Global Variables on Apple Silicon](https://developer.apple.com/forums/thread/731756) | ([PDF](pdfs/Accessing-Global-Variables-on-Apple-Silicon.pdf)) 
 - [Language Exception from RCTFatal](https://developer.apple.com/forums/thread/723952) | ([PDF](pdfs/Accessing-Global-Variables-on-Apple-Silicon.pdf))
 - [Using a Link Map to Track Down a Symbol’s Origin](https://developer.apple.com/forums/thread/733475) | [PDF](pdfs/Using-a-Link-Map-to-Track-Down-a-Symbol’s-Origin.pdf)
+- [Debugging Broken Pipes](https://developer.apple.com/forums/thread/773307) | [PDF](pdfs/Debugging-Broken-Pipes.pdf) 🟢
 
 ### Libraries and Frameworks
 - [An Apple Library Primer](https://developer.apple.com/forums/thread/715385) | ([PDF](pdfs/An-Apple-Library-Primer.pdf)) 🟡
